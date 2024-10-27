@@ -5,7 +5,7 @@ Repository containing data for care labels and python code for processing it and
 
 Create a venv or conda environment prior to installing the requirements, running : 
 
-`pip install -r requirements.txt``
+`pip install -r requirements.txt`
 
 ## Repo architecture and files description:
 
