@@ -1,18 +1,13 @@
 # File containing functions to process care_label file
 
 import json
-from nltk.corpus import stopwords
+import re
+
 import pandas as pd
+from nltk.corpus import stopwords
 from pydantic import BaseModel, ValidationError
-import re 
 
-from models import (
-    Category,
-    Color,
-    Component,
-    ProductDetails,
-)
-
+from src.models import Category, Color, Component, ProductDetails
 
 
 def strip_and_trim_punctuation(description_series: pd.Series) -> pd.Series:
