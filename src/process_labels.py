@@ -11,9 +11,9 @@ from src.models import Category, Color, Component, ProductDetails
 
 
 def strip_and_trim_punctuation(description_series: pd.Series) -> pd.Series:
-    """ Small function to stip pandas series string input and trim ending punctuation."""
+    """ Function to stip pandas series string input and trim ending punctuation."""
     punctuation = ".,;:!?" #Punctuation to remove at the end of the rows
-    return description_series.str.strip().str.rstrip(punctuation)
+    return description_series.str.strip().str.rstrip(punctuation).str.lstrip(punctuation)
 
 
 def lower_dataframe(df: pd.DataFrame) -> pd.DataFrame:
@@ -28,6 +28,7 @@ def remove_english_stopwords(description_series:pd.Series)-> pd.Series:
         sw = stopwords.words("english")
     except LookupError:
         # Download if missing
+        import nltk
         nltk.download("stopwords")
 
     return description_series.apply(lambda x: " ".join([word for word in x.split() if word not in sw]))
@@ -42,10 +43,13 @@ def remove_escape_characters(descriptive_series:pd.Series)->pd.Series:
     """Function removing escape characters ("\n") from input series"""
     return descriptive_series.str.replace("\n", " ", regex=True)
 
+def remove_commas(descriptive_series:pd.Series)->pd.Series:
+    """Function removing escape characters ("\n") from input series"""
+    return descriptive_series.str.replace(",", " ", regex=True)
 
 def remove_symbols(description_series: pd.Series):
-    """Function removing symbols of patent from input text series"""
-    symbols_to_remove = ["®", "+", "™"]
+    """Function removing symbols from input text series"""
+    symbols_to_remove = ["®", "+", "™","/"]
     # Create a regex pattern that matches any of the symbols
     pattern = '|'.join(map(re.escape, symbols_to_remove))
     
@@ -234,8 +238,7 @@ def dataframe_to_pydantic(df: pd.DataFrame, model: BaseModel):
     return instances
 
 def pydanticlist_to_json(pydanticlist: list, file_name: str) -> None:
-    """ function converting a list of models into a json file """
-
+    """ Function converting a list of models into a json file """
     items_json = [item.dict() for item in pydanticlist]  # Using dict() instead of json() to get a native Python dict
 
     # Remove json extension if any 
