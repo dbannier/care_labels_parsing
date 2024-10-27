@@ -1,0 +1,772 @@
+product_id,product_category,care_label
+#113,PANTS,"Main: 40% Cotton, 60% Polyester, 290 g/m².
+Contrast: 53% Cotton 47% Polyester, 290 g/m².
+Reinforcement Knee: 100% CORDURA®-Polyamide, 205 g/m²."
+#212,PANTS,"Main: DuraTwill, 52% Cotton 48% Polyamide, 240 g/m².
+Reinforcement: 100% CORDURA®-Polyamide."
+#213,PANTS,"Main: 40% Cotton, 60% Polyester, 290 g/m².
+Contrast: 53% Cotton, 47% Polyester, 290 g/m².
+Reinforcement Knee: 100% CORDURA®-Polyamide, 205 g/m²."
+#214,PANTS,"Main: Canvas+, 60% Cotton, 40% Polyester, 340 g/m². Reinforcement: 100% CORDURA®-Polyamide."
+#312,PANTS,"Main: DuraTwill, 52% Cotton 48% Polyamide, 240 g/m². 
+Reinforcement: 100% CORDURA®-Polyamide."
+#1100,JACKET,"Main: 100% polyamide, 220 g/m2. Reinforcement: 100% polyamide CORDURA®, 205 g/m². Lining: 100% solution dyed polyamide 65 g/m². Cuff stretch: 90% polyester 10% elastane, 253 g/m².  Insulation: 50% 37.5® polyester, 35% REPREVE® recycled polyester, 15% polyester, 120 g/m². Mesh: 100% polyester, 367 g/m². Pocket lining: 100% polyester, 215 g/m². "
+#1102,JACKET,"Main: 100% polyamide, 220 g/m2. Reinforcement: 100% polyamide CORDURA®, 205 g/m². Lining: 100% solution dyed polyamide 65 g/m². Cuff stretch: 90% polyester 10% elastane, 253 g/m².  Insulation: 50% 37.5® polyester, 35% REPREVE® recycled polyester, 15% polyester, 120 g/m². Mesh: 100% polyester, 367 g/m². Pocket lining: 100% polyester, 215 g/m². "
+#1106,JACKET,"Main: 100% Recycled Polyamide, 175 gr. Reinforcement: 100% CORDURA® Polyamide, 190 gr. Insulation: 90% REPREVE® recycled polyester, 10% Recycled Polyester, 120 gr in body and sleeves. Lining: 100% Polyamide.
+"
+#1107,JACKET,"Main: 100% polyamide, 220 g/m2. Reinforcement: 100% polyamide CORDURA®, 205 g/m². Lining: 100% solution dyed polyamide 65 g/m². Cuff stretch: 90% polyester 10% elastane, 253 g/m².  Insulation: 50% 37.5® polyester, 35% REPREVE® recycled polyester, 15% polyester, 120 g/m². Mesh: 100% polyester, 367 g/m². Pocket lining: 100% polyester, 215 g/m². "
+#1112,JACKET,"Main: 100% Recycled Polyamide, 175 gr. 
+Reinforcement: 100% CORDURA® Polyamide, 190 gr. Insulation: 90% REPREVE® recycled polyester, 10% Recycled Polyester, 120 gr in body and sleeves.                                                            
+Lining: 100% Polyamide. "
+#1117,JACKET,"Main: 100% Recycled Polyamide, 175 gr.                Reinforcement: 100% CORDURA® Polyamide, 190 gr.                     Insulation: 90% REPREVE® recycled polyester, 10% Recycled Polyester, 120 gr in body and sleeves.                                                                               Lining: 100% Polyamide."
+#1127,JACKET,"Main: 100% polyamide, 220 g/m2. Reinforcement: 100% polyamide CORDURA®, 205 g/m². Lining: 100% solution dyed polyamide 65 g/m². Cuff stretch: 90% polyester 10% elastane, 253 g/m².  Insulation: 50% 37.5® polyester, 35% REPREVE® recycled polyester, 15% polyester, 120 g/m². Mesh: 100% polyester, 367 g/m². Pocket lining: 100% polyester, 215 g/m². "
+#1130,JACKET,"Main: 100% polyester 230 g/m². Reinforcement: 100% CORDURA® polyamide, 205 g/m². Lining: 100% solution dyed polyamide, 65 g/m². Insulation: 50% 37.5® polyester, 35% REPREVE® recycled polyester, 15% polyester, 120 g/m²"
+#1132,JACKET,"Main: 100% polyester 230 g/m². Contrast main: 100% polyamide, 250 g/m². Reinforcement: 100% CORDURA® polyamide 305 g/m². Cuff stretch: 90% polyester 10% elastane, 253 g/m².  Insulation: 50% 37.5® polyester, 35% REPREVE® recycled polyester, 15% polyester 120 g/m². Pocket lining: 100% polyester, 215 g/m²"
+#1137,JACKET,"Main: 100% polyester 230 g/m². Reinforcement: 100% polyamide CORDURA® 205 g/m². Lining: 100% solution dyed polyamide 65 g/m². Cuff stretch: 90% polyester 10% elastane, 253 g/m².  Insulation: 50% 37.5® polyester, 35% REPREVE® recycled polyester, 15% polyester, 120 g/m². Mesh: 100% polyester, 367 g/m². Pocket lining: 100% polyester, 215 g/m²"
+#1138,JACKET,"Main: 100% polyester, 230 g/m². Lining: 100% solution dyed polyamide 65 g/m². Padding: 100% polyester 120 g/m². Pocket lining: 100% polyester, 215 g/m². Collar lining: 100% polyester, 350 g/m²"
+#1148,JACKET,"Main: 100% polyester, 175 g/m². Contrast: 100% polyamide, 220 g/m². Lining: 100% solution dyed polyamide, 65 g/m². Insulation: 100% polyester. Pocket lining: 100% polyester, 215 g/m²"
+#1158,JACKET,"Main: 100% Polyamide, 175 gr. Reinforcement: 100% CORDURA® Polyamide, 190 gr. Insulation: 90% REPREVE® recycled polyester, 10% Recycled Polyester, 120 gr in body and sleeves. Lining: 100% Polyamide."
+#1163,JACKET,"Main: 55% Protal, 44% cotton, 1% antistatic, PU laminated, 265 g/m². Lining: 40% modacrylic FR, 37% viscose FR, 22% regenerated viscose, 1% antistatic, 180 g/m². Padding: 100% polyester, 110 g/m²."
+#1164,JACKET,"Main: 31% polyester, 28% modacrylic, 20% Aramid Kermel®, 20% CV FR, 1% antistatic, 320 g/m2. 
+Lining: 40% modacrylic FR, 37% viscose FR, 22% regenerated viscose, 1% antistatic, 180 g/m².
+Padding: 100% polyester, 120 g/m²
+"
+#1167,JACKET,"Main: 55% Protal®, 44% cotton, 1% antistatic, PU laminated, 265 g/m2.
+Lining: 40% modacrylin FR, 37% viscose FR, 22% regenerated viscose, 1% antistatic, 180 g/m2,
+Padding: 100% polyester, 120 g/m2."
+#1177,JACKET,"Main: 100% Recycled Polyamide, 175 gr.             Reinforcement: 100% CORDURA® Polyamide, 190 gr.           Insulation: 90% REPREVE® recycled polyester, 10% Recycled Polyester, 120 gr in body and sleeves.                                                    Lining: 100% Polyamide."
+#1200,JACKET,"Main: 100% polyester, 265 g/m². Reinforcements: 100% polyamide CORDURA®, 205 g/m²."
+#1205,JACKET,"Main: 88% polyester, 12% elastane, 218 g/m2. "
+#1207,JACKET,"Main: 100% polyester, 265 g/m². Reinforcements: 100% polyamide CORDURA®, 205 g/m²."
+#1211,JACKET,100% Polyester 265g/m².
+#1218,JACKET,"Material: 88% polyester, 12% elastane, 285 g/m².
+
+"
+#1229,JACKET,"Main: 100% polyester, 265 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#1230,JACKET,"Main Fabric: 100% Polyester 265g/m²
+Reinforcement: CORDURA® 100% Polyamide 205 g/m²
+"
+#1237,JACKET,"Main: 100% Polyester 265 g/m² 
+Reinforcement: 100% Polyamide CORDURA® 205 g/m²."
+#1247,JACKET,"88% polyester, 12% elastane, 218 g/m2."
+#1260,JACKET,"55% Protal®, 44% Cotton, 1% Antistatic + PU laminated, 405 g/m2."
+#1300,JACKET,"Main: 100% polyamide, 150g/m². Reinforcement: 100% polyamide CORDURA®, 305g/m²."
+#1303,JACKET,"Main: 100% polyamide, 145 g/m². Lining: 100% solution dyed polyamide, 65 g/m². Pocket lining: 100% polyester 69 g/m²"
+#1304,JACKET,"Material: 100% polyester, 145 g/m²."
+#1330,JACKET,"Main: 100% polyester, 137g/m². Lining: 100% solution dyed polyamide, 65 g/m². Pocket lining: 100% polyester, 69 g/m²"
+#1331,JACKET,"Material: 100% polyester, 260 g/m² (39% Sorona® polyester)."
+#1347,JACKET,"Main: 100% polyester, 137g/m². Lining: 100% solution dyed polyamide, 65 g/m². Pocket lining: 100% polyester, 69 g/m²"
+#1360,JACKET,"Main: 55% Protal, 44% cotton, 1% antistatic, PU laminated, 265 g/m². Lining: 50% meta-aramid, 50% viscose FR, 120 g/m²."
+#1361,JACKET,"Main: 55% Protal, 44% cotton, 1% antistatic, PU laminated, 265 g/m².
+Lining: 50% meta-aramid, 50% viscose FR, 120 g/m²."
+#1367,JACKET,"Main: 100% polyester, 137 g/m². Lining: 100% solution dyed polyamide, 65 g/m². Pocket lining: 100% polyester, 69 g/m²"
+#1539,JACKET,"Main: 61% Polyester, 39% Sorona® polyester, 260 g/m2.  Contrast: 88% CORDURA® polyamide, 12% elastane, 275 g/m²."
+#1549,JACKET,"Main: 47% cotton, 53% polyester, 237 g/m².  Contrast: 91.5% polyamide, 8.5% elastane, 250 g/m².   Colour 0904; Main: 61% polyester 39% Sorona® polyester, 252 g/m².  Contrast: 91.5% polyamide, 8.5% elastane, 250 g/m²"
+#1560,JACKET,"Main: 49% modacrylic FR, 42% cotton, 5% aramid, 3% polyamide, 1% antistatic, 300 g/m². Lining: 50% meta-aramid, 50% viscose FR, 120 g/m²."
+#1561,JACKET,"Main: 49% modacrylic FR, 42% cotton, 5% aramid, 3% polyamide, 1% antistatic, 300g/m². Lining: 50% meta-aramid, 50% viscose FR, 120 g/m²."
+#1562,JACKET,"31% polyester, 28% modacrylic, 20% Aramid Kermel®, 20% CV FR, 1% antistatic, 320 g/m2. "
+#1563,JACKET,"68% wool, 30% modacrylic FR, 2% Belltron®, 450 g/m²."
+#1566,JACKET,"Main: 49% modacrylic FR, 42% cotton, 5% aramid, 3% polyamide, 1% antistatic, 300 g/m2. Lining: 50% meta-aramid, 50% viscose FR, 120 g/m2."
+#1567,JACKET,"49% Modacrylic FR, 42% Cotton, 5% Aramid, 3% Polyamide, 1% Antistatic, 300g/m2. Lining: 50% Meta-aramid, 50% Viscose FR, 120 g/m2"
+#1633,JACKET,"Main: 40% cotton, 60% polyester, 290 g/m². Contrast: 53% cotton, 47% polyester, 290 g/m²."
+#1668,JACKET,"Main: 99,4% PES, 0,6% Carbon, 215 g/m². Lining: 50% meta-aramid, 50% Viscose, 120 g/m². Reinforcement: 39% Modacrylic, 28% CORDURA®, 17% Cotton, 15% Aramid, 1% Antistatic, 270 g/m²."
+#1673,JACKET,"65% Polyester, 35% Cotton, 260g/m2."
+#1800,JACKET/COAT,"Main: 100% polyamide, 220 g/m2. Reinforcement: 100% polyamide CORDURA®, 205 g/m². Lining: 100% solution dyed polyamide 65 g/m². Cuff stretch: 90% polyester 10% elastane, 253 g/m².  Insulation: 50% 37.5® polyester, 35% REPREVE® recycled polyester, 15% polyester, 120 g/m². Mesh: 100% polyester, 367 g/m². Pocket lining: 100% polyester, 215 g/m². "
+#1801,JACKET/COAT,"Material: 100% Recycled Polyamide, 175 gr.               Reinforcement: 100% CORDURA® Polyamide, 190 gr.             Insulation: 90% REPREVE® recycled polyester, 10% Recycled Polyester, 160 gr in body, 140 gr in sleeves, 60 gr in hood.                            Lining: 100% Polyamide."
+#1830,JACKET/COAT,"Main: 100% polyester 137 g/m². Lining: 100% solution dyed polyamide 65 g/m². Reinforcement: 100% polyamide CORDURA® 205 g/m². Cuff stretch: 90% polyester 10% elastane, 253 g/m².  Insulation: 50% 37.5® polyester, 35% REPREVE® recycled polyester, 15% polyester 120 g/m². Pocket lining: 100% polyester, 215 g/m². "
+#1860,JACKET/COAT,"Main: 55% Protal, 44% cotton, 1% antistatic, 265 g/m². Lining: 40% modacrylic FR, 37% viscose FR, 22% regenerated viscose, 1% antistatic, 180 g/m². Padding: 100% polyester, 110 g/m²."
+#1902,JACKET,"Main: 100% polyamide, 69 g/m². Contrast: 64% solution dyed polyester, 30% viscose, 6% elastane, 380 g/m². Insulation: 90% REPREVE® recycled polyester, 10 % polyester, 120 g/m². Cuff stretch: 90% polyester 10% elastane, 253 g/m².  Pocket lining: 100% polyester, 69 g/m². "
+#1908,JACKET,"Main: 100% polyamide, 70 g/m².Lining: 90% polyester, 10% elastane, 95 g/m²."
+#1915,JACKET,"Main: 94% polyamide 6%, elastane, 178 g/m². Contrast 1 (backpanel): 92% polyester, 8% elastane, 118 g/m². Contrast 2 (armpit): 91.5% polyamide, 8.5% elastane, 250 g/m²."
+#1940,JACKET,"Main: 73% polyamide, 20% polyurethane, 7% elastane Schoeller®, 220 g/m². Contrast: 84% polyamide, 16% elastane, 298 g/m².Reinforcement: Armortex® 56% polyamide, 26% elastane, 18% DuPont™ Kevlar® aramid fibers, 380 g/m²."
+#1948,JACKET,"Main: 100% polyamide, 69 g/m2. Reinforcement: 88% polyamide CORDURA®, 12% elastane, 275 g/m2. Stretch: 84% nylon, 16% elastane, 193 g/m2. Lining: 90% polyester, 10% elastane, 98 g/m2."
+#1950,JACKET,"Main: 88% Polyester, 12% Elastane. 
+Main 2: 90% Polyester, 10% Elastane. 
+Isolation: 100% Polyester. Fill power 330
+Lining: 100% Polyester.
+"
+#1980,JACKET,"Main: 100% GORE-TEX polyester, 145 g/m². Contrast: 44% GORE-TEX polyester, 37% polyamide, 19% elastane, 215 g/m²."
+#1981,JACKET,"Main: 100% GORE-TEX® polyester 140 g/m². Contrast: GORE-TEX® 44% polyester 37% polyamide 19% elastane 215 g/m². Cuff stretch: 90% polyester 10% elastane, 253 g/m².  Lining: 100% solution dyed polyamide 65 g/m². Insulation: 50% 37.5® polyester, 35% REPREVE® recycled polyester, 15% polyester, 120 g/m². Pocket lining: 100% polyester, 215 g/m². "
+#1982,JACKET,"Main: 94% polyamide GORE® WINDSTOPPER®, 6% elastane, 285 g/m². Contrast: 88% polyamide CORDURA®, 12% elastane, 270g/m²."
+#2405,TSHIRT/LONG-SLEEVE,"Color 9567: Main: 100% polyester, 140 g/m²."
+#2410,TSHIRT/LONG-SLEEVE,Main: 100% cotton 200 g/m².
+#2411,TSHIRT/LONG-SLEEVE,"91% polyester, 9% Elastane 190 g/m2."
+#2427,TSHIRT/LONG-SLEEVE,"100% mulesing-free merino wool with kalendar finish, 160 gsm"
+#2430,TSHIRT/LONG-SLEEVE,"66% recycled polyester, 34% cotton (40,s), 195 g/m²."
+#2431,TSHIRT/LONG-SLEEVE,"66% recycled polyester, 34% cotton (40,s), 195 g/m²."
+#2433,TSHIRT/LONG-SLEEVE,"Main: 100% polyester, 150 g/m²."
+#2460,TSHIRT/LONG-SLEEVE,"60% modacrylic FR, 38% cotton, 2% Belltron™, 215 g/m²."
+#2461,TSHIRT/LONG-SLEEVE,"60% modacrylic, 37% cotton, 3% Belltron™, 230 g/m²."
+#2462,TSHIRT/LONG-SLEEVE,"60% modacrylic, 38% cotton, 2% Belltron®, 230 g/m²."
+#2467,TSHIRT/LONG-SLEEVE,"60% modacrylic, 38% cotton, 2% Belltron™, 215 g/m2."
+#2476,TSHIRT/LONG-SLEEVE,"60% modacrylic, 37% cotton, 3% Belltron™, 230 g/m²."
+#2496,TSHIRT/LONG-SLEEVE,"Col 0400, 0900, 5800 and 9500: 100% cotton, 160 g/m2. 
+Col 2800: 95% cotton, 5% viscose, 160 g/m2.
+"
+#2497,TSHIRT/LONG-SLEEVE,"100% cotton, 160 g/m2."
+#2498,TSHIRT/LONG-SLEEVE,"100 % polyester (45% 37.5® polyester), 185 g/m²."
+#2502,TSHIRT,"100% Cotton, Col. 2800: 95% Cotton, 5% Viscose 160 g/m²."
+#2504,TSHIRT,"100% Cotton, 200 g/m²."
+#2505,TSHIRT,"Color 9567: Main: 100% polyester, 140 g/m²."
+#2511,TSHIRT,"91% polyester, 9% Elastane 190 g/m2."
+#2512,TSHIRT,"Col 0400, 5800 and 9500: 100% cotton, 160 g/m2. 
+Col 2800: 95% cotton, 5% viscose, 160 g/m2.
+"
+#2516,TSHIRT,"100% Cotton, 160 g/m²."
+#2517,TSHIRT,"100% organic cotton, 200 g/m²."
+#2518,TSHIRT,"100% Cotton, 160 g/m²."
+#2519,TSHIRT,"Main: 61% polyamide, 39% 37.5® polyester, 148 g/m²."
+#2522,TSHIRT,"100% cotton, 160 g/m²."
+#2526,TSHIRT,"100% organic cotton, 200 g/m²"
+#2527,TSHIRT,"100% mulesing-free merino wool with calender finish, 160 g/m2"
+#2529,TSHIRT,"95% cotton, 5% elastane, 180 g/m2."
+#2530,TSHIRT,"Main: 100% polyester, 150 g/m²."
+#2534,TSHIRT,"Main: 50% polyester, 50% cotton, 190 g/m2"
+#2535,TSHIRT,"Main fabric: 100% polyester, 150 g/m²."
+#2536,TSHIRT,"Main: 50% polyester, 50% cotton, 190 g/m2"
+#2537,TSHIRT,"50% cotton, 50% polyester, 190 g/m2."
+#2538,TSHIRT,"66% recycled polyester, 34% cotton (40,s), 195 g/m²."
+#2539,TSHIRT,"66% recycled polyester, 34% cotton (40,s), 195 g/m²."
+#2550,TSHIRT,"100% cotton, 160 g/m2. "
+#2558,TSHIRT,"100% REPREVE® recycled polyester, 145 g/m²"
+#2561,TSHIRT,"60% modacrylic FR, 38% cotton, 2% Belltron™, 215 g/m²."
+#2562,TSHIRT,"60% modacrylic, 38% cotton, 2% Belltron™, 230 g/m²."
+#2563,SHIRT,"60% modacrylic, 38% cotton, 2% Belltron™, 230 g/m²."
+#2573,TSHIRT,"Main fabric: 50% polyester, 50% cotton, 190 g/m2"
+#2580,TSHIRT,"Colors: 0400, 0600, 4000, 9500: 100% Cotton, 200 g/m². 
+Color: 3400: 65% Polyester, 35% Cotton.
+Color: 2800: 95% Cotton, 5% Viscose"
+#2586,TSHIRT,"100% Cotton, 160 g/m²."
+#2590,TSHIRT,"Col 0400 and 3100: 100% cotton, 200 g/m2. 
+Col 2800: 95% cotton, 5 % viscose 200 g/m2. 
+Col 4500: 65% polyester, 35 % cotton, 200 g/m2
+"
+#2597,TSHIRT,"Col 0400: 100% cotton, 200 g/m2. 
+Col 2800: 95% cotton, 5 % viscose 200 g/m2. 
+Col 4500: 65% polyester, 35 % cotton, 200 g/m2
+"
+#2598,TSHIRT,"100 % polyester (45 % 37.5®-polyester), 185 g/m²."
+#2608,SHIRT,"Material: 65% polyester, 35% cotton, 220 g/m2.
+
+"
+#2612,SHIRT,"Colours: 0400, 9500, 2800: 82% cotton, 18% polyester, 280 g/m². Colour 3400: 64% cotton, 36% polyester, 280 g/m²."
+#2660,SHIRT,"60% cotton, 38% modacrylic FR, 2% Belltron™, 255 g/m²."
+#2661,SHIRT,"60% cotton, 37% modacrylic FR, 3% Belltron™, 255 g/m²."
+#2667,SHIRT,"60% modacrylic, 38% cotton, 2% Belltron™, 255 g/m2."
+#2702,SHIRT,"65% Polyester, 35% Cotton 220 g/m²."
+#2708,SHIRT,"65% Polyester, 35% Cotton. Col. 2800: 95% Cotton, 5% Viscose. 220 g/m²."
+#2710,SHIRT,"100% cotton, 240 g/m²."
+#2715,SHIRT,"65% Polyester, 35% Cotton 220 g/m²."
+#2718,SHIRT,"65% Polyester, 35% Cotton 220 g/m²."
+#2721,SHIRT,"100% REPREVE® recycled polyester, 145 g/m²"
+#2724,SHIRT,100 % polyester (37.5® 45 %) 185 g/m2.
+#2730,SHIRT,"100% Polyester piqué, 150 g/m²."
+#2750,SHIRT,"65% polyester, 35% cotton, 220 g/m2. "
+#2760,SHIRT,"60% cotton, 38% modacrylic FR, 2% Belltron™, 255 g/m²."
+#2800,SWEATER/HOODIE,"80% Cotton 20% Polyester,  300 g/m²."
+#2801,SWEATER/HOODIE,"80% Cotton 20% Polyester,  300 g/m²."
+#2806,SWEATER/HOODIE,"80% Cotton 20% Polyester, 300 g/m²."
+#2810,TSHIRT,"Main: 80% cotton, 20% polyester, 300 g/m²."
+#2812,TSHIRT,"80% Cotton 20% Polyester, 330 g/m²."
+#2813,TSHIRT,"80% Cotton 20% Polyester, 330 g/m²."
+#2818,TSHIRT,"Main: 80% cotton, 20% polyester, 300 g/m²."
+#2827,TSHIRT,"80% cotton, 20% polyester, 300 g/m²."
+#2830,TSHIRT,"85% polyester, 15% cotton, 350 g/m2.
+
+"
+#2831,TSHIRT,"85% polyester, 15% cotton, 350 g/m2.
+"
+#2834,JACKET,"85% polyester, 15% cotton, 350 g/m2.
+
+"
+#2835,JACKET,"85% polyester, 15% cotton, 350 g/m2."
+#2838,SWEATER/HOODIE,"85% polyester, 15% cotton, 350 g/m2."
+#2839,SWEATER/HOODIE,"85% polyester, 15% cotton, 350 g/m2."
+#2840,TSHIRT,Double interlock fabric
+#2841,TSHIRT,"82% cotton, 18% polyester, 280 g/m²."
+#2842,SWEATER/HOODIE,"82% cotton, 18% polyester, 280 g/m²."
+#2845,SWEATER/HOODIE,"Colour: 0400, 9500: 60% cotton, 40% polyester, 400 g/m². Colour 2800: Main: 55% cotton, 45% polyester, 400 g/m²."
+#2846,SWEATER/HOODIE,"Colour: 0400, 9500: 60% cotton, 40% polyester, 400 g/m². 
+Colour 2800: Main: 55% cotton, 45% polyester, 400 g/m². 
+"
+#2850,SWEATER/HOODIE,"Main: 75% Cotton, 25% Polyester, 280 g/m²
+Cuffs: 94% Cotton, 6% Elastane, 400g/m²
+ 
+"
+#2860,JACKET,"50% modacrylic, 30% cotton, 18% polyester, 2% antistatic, 370 g/m²."
+#2861,TSHIRT,"60% modacrylic, 38% cotton, 2% Belltron™, 370 g/m²."
+#2862,SWEATER/HOODIE,"60% modacrylic, 38% cotton, 2% Belltron™, 370 g/m²."
+#2863,TSHIRT,"60% modacrylic, 37% cotton, 3% Belltron™, 370 g/m²."
+#2864,TSHIRT,"60% modacrylic, 37% cotton, 3% Belltron™, 370 g/m²."
+#2865,SWEATER/HOODIE,"60% modacrylic, 37% cotton, 3% Belltron™, 370 g/m²."
+#2867,TSHIRT,"60% modacrylic, 38% cotton, 2% Belltron™, 370 g/m2."
+#2869,TSHIRT,"60% cotton, 37% modacrylic FR, 3% Belltron™, 370 g/m2."
+#2876,TSHIRT,"60% modacrylic, 37% cotton, 3% Belltron™, 370 g/m²."
+#2877,SWEATER/HOODIE,"Col 0400 and 2800: 82% cotton, 18% polyester. 
+Col 4500: 64% cotton, 36% polyester, 280 g/m2.
+2X2 Rib: 97% cotton, 3% elastane, 380 g/m2.
+"
+#2880,SWEATER/HOODIE,"Colour 0400, 0600, 4000 and 9500: 82% Cotton, 18% Polyester, 280 g/m2.
+Colour 3400: 64% Cotton, 36% Polyester, 280 g/m2.
+Colour 2800: 82% Cotton, 18% Polyester, 280 g/m2."
+#2881,SWEATER/HOODIE,"Colour 0400, 0600, 4000 and 9500: 82% Cotton, 18% Polyester, 280 g/m2.
+Colour 3400: 64% Cotton, 36% Polyester, 280 g/m2.
+Colour 2800: 82% Cotton, 18% Polyester, 280 g/m2."
+#2882,TSHIRT,"Colours 0400, 0600, 4000, 9500: 82% Cotton, 18% Polyester, 280 g/m2.
+Colour 3400: 64% Cotton, 36% Polyester, 280 g/m2.
+Colour 2800: 82% Cotton, 18% Polyester, 280 g/m2."
+#2886,JACKET,"Colours 0400, 1600, 3900, 9500: 60% cotton, 40% polyester, 400 g/m². Colour 2800: 55% cotton, 45% polyester, 400 g/m²."
+#2887,JACKET,"Colour 0400, 1604, 3904, 9504: 60% cotton, 40% polyester, 400 g/m². Colour 2804: Main: 55% cotton, 45% polyester, 400 g/m². Contrast: 60% cotton, 40% polyester, 400 g/m²."
+#2888,SWEATER/HOODIE,"Colour 0400, 1604, 3904, 9504: 60% cotton, 40% polyester, 400 g/m². Colour 2804: Main: 55% cotton, 45% polyester, 400 g/m².Contrast: 60% cotton, 40% polyester, 400 g/m²."
+#2889,SWEATER/HOODIE,"Colour: 0400, 1604, 3904, 9504: 60% cotton, 40% polyester, 400 g/m². Colour 2804: Main: 55% cotton, 45% polyester, 400 g/m².Contrast: 60% cotton, 40% polyester, 400 g/m²."
+#2890,SWEATER/HOODIE,"Colour 0400, 9500: 60% cotton, 40% polyester, 400 g/m².
+Colour 2800: 55% cotton, 45% polyester, 400 g/m²."
+#2892,TSHIRT,"Col 0400, 2800 and 3100: 82% cotton, 18% polyester. 
+Col 4500: 64% cotton, 36% polyester, 280 g/m2.
+2X2 Rib: 97% cotton, 3% elastane, 380 g/m2.
+"
+#2894,SWEATER/HOODIE,"Col 0400, 2800 and 3100: 82% cotton, 18% polyester. 
+Col 4500: 64% cotton, 36% polyester, 280 g/m2.
+2X2 Rib: 97% cotton, 3% elastane, 380 g/m2.
+"
+#2895,SWEATER/HOODIE,"Col 0400, 2800 and 3100: 82% cotton, 18% polyester. 
+Col 4500: 64% cotton, 36% polyester, 280 g/m2.
+2X2 Rib: 97% cotton, 3% elastane, 380 g/m2.
+"
+#2897,SWEATER/HOODIE,"0400 60% cotton, 40% polyester, 400 g/m2.
+2800 55% cotton, 45% polyester, 400 g/m2
+"
+#2898,TSHIRT,"Main: 80% cotton, 20% polyester, 300 g/m²."
+#2899,SWEATER/HOODIE,"Main: 80% cotton, 20% polyester, 300 g/m²."
+#2905,SWEATER,"Main: 100% Wool.
+Reinforcement: 100% Polyamide 190 g/m2. "
+#2911,TSHIRT/TANK-TOP,"91% polyester, 9% Elastane 190 g/m2."
+#3014,PANTS/SHORTS,"Main: Canvas+, 60% Cotton, 40% Polyester, 340 g/m². Reinforcement: 100% CORDURA®-Polyamide."
+#3023,PANTS/SHORTS,"Main: 65% Polyester, 35% Cotton, 200 g/m². Reinforcement: 100% CORDURA®-Polyamide."
+#3123,PANTS/SHORTS,"Main: 65% Polyester, 35% Cotton, 200 g/m². Reinforcement: 100% CORDURA®-Polyamide."
+#3211,PANTS,"Main: 65% polyester, 35% cotton, 195 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#3212,PANTS,"Main: 52% cotton, 48% polyamide, 240 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#3213,PANTS,"Main: 65% polyester, 35% cotton, 200 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#3214,PANTS,"Main: 60% cotton, 40% polyester, 340 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#3215,PANTS,"Main: 100% cotton, 380 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#3223,PANTS,"Main: 65% polyester, 35% cotton, 250 g/m². Reinforcement 1: 100% polyamide CORDURA®, 205 g/m². Reinforcement 2: 54% polyester, 24% DuPont™ Kevlar® aramid, 13% polyamide, 9% polyurethane, 450 g/m²."
+#3233,PANTS,"Main: 60% polyester, 40% cotton, 290 g/m². Contrast: 53% cotton, 47% polyester 290g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#3234,PANTS,"Main: Canvas+ 60% Cotton, 40% Polyester, 340 g/m². Contrast: 60% Polyester, 40% Cotton. 
+Reinforcement: 100% CORDURA®-Polyamide."
+#3235,PANTS,"Main: 100% cotton, 390 g/m². Contrast: 60% polyester, 40% cotton, 290 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#3311,PANTS,"Main: 65% polyester, 35% cotton, 195 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#3312,PANTS,"Main: 52% cotton, 48% polyamide, 240 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#3313,PANTS,"Main: 49% cotton, 51% polyester, 360 g/m2. Reinforcement: 100% polyester CORDURA®, 320 g/m²."
+#3314,PANTS,"Main: 60% cotton, 40% polyester, 340 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#3333,PANTS,"Main: 60% polyester, 40% cotton, 290 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#3714,PANTS,"Main: 60% cotton, 40% polyester, 340 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#3833,PANTS,"Main: 60% polyester, 40% cotton, 290 g/m². Contrast: 53% cotton, 47% polyester 290 g/m²."
+#4230,JACKET,"Main: 85% polyester, 15% Cotton, 270 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#4250,JACKET,"Main: 69% polyamide, 31% cotton, 250 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#4254,JACKET,"Main: Canvas+, 60% Cotton, 40% Polyester, 340 g/m². Reinforcement: 100% Cordura®-Polyamide 500D and 1000D."
+#4260,JACKET,"49% Modacrylic FR, 42% Cotton, 5% Aramid, 3% Polyamide, 1% Antistatic, 300 g/m². "
+#4310,JACKET,"100% durable and comfortable polyester, 130 g/m2"
+#4360,JACKET,"68% Wool, 30% Modacrylic FR, 2% Belltron, 450 g/m²."
+#4361,JACKET,100% Polyester FR
+#4373,JACKET,"65% Polyester, 35% Cotton, 260g/m2."
+#4502,JACKET,"Main: 97% Recycled Polyamide, 3% PU. Lining: 100% Recycled Polyamide.                        Insulation: 100% Recycled Polyester (60% Sorona® Polyester, 40% Polyester)"
+#4505,JACKET,"Main: 88% polyester, 12% elastane, 218 g/m2.
+
+"
+#4512,JACKET,"Main: 100% polyamide 67 g/m². Reinforcement: 88% CORDURA® polyamide, 12% elastane, 270 g/m². Contrast: 90% polyester, 10% elastane, 220 g/m². Cuff stretch: 90% polyester 10% elastane, 253 g/m².  Insulation: 50% 37.5® polyester, 35% REPREVE® recycled polyester, 15% polyester, 140 g/m². Pocket lining: 100% polyester, 215 g/m². "
+#4548,JACKET,"Main: 100% polyester, 175 g/m². Contrast: 100% polyamide, 220 g/m². Lining: 100% solution dyed polyamide, 65 g/m². Insulation: 100% polyester. Pocket lining: 100% polyester, 215 g/m²"
+#4902,JACKET,"Main: 100% polyamide, 67 g/m². 
+Contrast: 64% solution- dyed polyester, 30% viscose, 6% elastane, 380 g/m². 
+Insulation: 90% REPREVE® recycled polyester, 10 % recycled polyester, 120 g/m². 
+Pocket lining: 100% recycled polyester, 69 g/m².
+"
+#6051,PANTS,"Main: 47% cotton, 53% polyester, 237 g/m2. Contrast: 91.5% polyamide, 8.5% elastane, 250 g/m2. Reinforcement: 100% polyester, 250 g/m2.
+Colour 0904; Main: 61% polyester 39% Sorona® polyester, 252 g/m². Contrast: 91.5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 53% solution dyed CORDURA®polyamide, 47% solution dyed CORDURA® polyester, 283 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²"
+#6060,PANTS,"Main: 55% Protal® FR, 44% cotton, 1% antistatic, 275 g/m².
+Reinforcement: 39% modacrylic, 28% CORDURA®, 17% cotton, 15% aramid, 1% antistatic, 270 g/m²."
+#6062,WORKWEAR/COVERALL,"Main: 31% polyester, 28% modacrylic, 20% Aramid Kermel®, 20% CV FR, 1% antistatic, 320 g/m2. Reinforcement: 39% modacrylic, 28% CORDURA®, 17% cotton, 15% aramid, 1% antistatic, 270 g/m2"
+#6063,PANTS,"Main: 55% Protal FR, 44% cotton, 1% antistatic, 275 g/m². Reinforcement: 39% modacrylic, 28% CORDURA®, 17% cotton, 15% aramid, 1% antistatic, 270 g/m²
+"
+#6064,PANTS,"Main: 31% polyester, 28% modacrylic, 20% Aramid Kermel®, 20% CV FR, 1% antistatic, 320 g/m2. Reinforcement: 39% modacrylic, 28% CORDURA®, 17% cotton, 15% aramid, 1% antistatic, 270 g/m2."
+#6065,PANTS,"Main: 31% polyester, 28% modacrylic, 20% Aramid Kermel®, 20% CV FR, 1% antistatic, 320 g/m2. Reinforcement: 39% modacrylic, 28% CORDURA®, 17% cotton, 15% aramid, 1% antistatic, 545 g/m2."
+#6073,WORKWEAR/COVERALL,"CoolTwill, 65% Polyester, 35% Cotton, 200 g/m². "
+#6100,PANTS/SHORTS,"65% Polyester, 35% Cotton, 260g/m2."
+#6108,PANTS/SHORTS,"Main: 84% polyamide 16% elastane, 193 g/m2. Contrast: 88% polyamide, 12% elastane, 275 g/m2. Reinforcement: 100% polyamide CORDURA®, 205 g/m2."
+#6110,PANTS/SHORTS,"Main: 45% polyester, 30% 37.5® polyester, 25% cotton, 202 g/m2. "
+#6112,PANTS/SHORTS,"Main: 45% polyester, 30% 37.5® polyester, 25% cotton, 202 g/m2."
+#6131,PANTS/SHORTS,"Main: 100% Polyester, 200 g/m². 
+Reinforcement: 100% CORDURA®-polyamide."
+#6132,PANTS/SHORTS,"Main: 100% Polyester, 200 g/m². 
+Reinforcement: 100% CORDURA®-polyamide."
+#6134,PANTS,"Main: 100% Polyester, 200 g/m².
+Reinforcement: 100% CORDURA®-polyamide."
+#6135,PANTS/SHORTS,"Main: 61% polyester, 39% Sorona® polyester, 260 g/m².  Reinforcement: 100% polyamide CORDURA®, 205 g/m². Reinforcement: 53% solution dyed CORDURA® polyamide, 47% CORDURA® solution dyed polyester, 283 g/m²"
+#6136,PANTS/SHORTS,"Main: 61% polyester, 39% Sorona® polyester, 260 g/m².  Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#6138,PANTS,"Main: 61% polyester, 39% Sorona® polyester, 260 g/m².  Reinforcement: 100% polyamide CORDURA®, 205 g/m². Reinforcement: 53% solution dyed CORDURA® polyamide, 47% CORDURA® solution dyed polyester, 283 g/m²"
+#6140,PANTS/SHORTS,"Main: 73% polyamide, 20% polyurethane, 7% elastane Schoeller®, 220 g/m². Contrast: 84% polyamide, 16% elastane, 298 g/m²."
+#6141,PANTS/SHORTS,"Main: 47% cotton, 53% polyester, 251 g/m². Contrast: 91,5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 100% CORDURA® polyester, 320 g/m². Reinforcement: 100% CORDURA®polyamide, 205 g/m².   Colour 0904; Main: 61% polyester 39% Sorona® polyester, 252 g/m². Contrast: 91.5% polyamide, 8.5% elastane, 250 g/m². Reinforcement 1: 53% polyamide CORDURA®, 47% CORDURA®polyester, 283 g/m². Reinforcement: 100% CORDURA®polyamide, 205 g/m²"
+#6142,PANTS,"Main: 47% cotton, 53% polyester, 251 g/m². Contrast: 91,5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 100% CORDURA® polyester, 320 g/m². Reinforcement: 100% CORDURA®polyamide, 205 g/m².   Colour 0904; Main: 61% polyester 39% Sorona® polyester, 252 g/m². Contrast: 91.5% polyamide, 8.5% elastane, 250 g/m². Reinforcement 1: 53% polyamide CORDURA®, 47% CORDURA®polyester, 283 g/m². Reinforcement: 100% CORDURA®polyamide, 205 g/m²"
+#6143,PANTS/SHORTS,"Main: 2-way stretch 47% Cotton 31% Polyester 22% Elastane.
+Contrast: 4-way stretch 92% Polyamide 8% Elastane.
+Reinforcement: 100% Polyamide CORDURA®.
+"
+#6147,PANTS/SHORTS,"Main: 47% cotton, 53% polyester, 251 g/m². Contrast: 91,5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 100% CORDURA® polyester, 320 g/m². Reinforcement: 100% CORDURA®polyamide, 205 g/m².   
+Colour 0904; Main: 61% polyester 39% Sorona® polyester, 252 g/m². Contrast: 91.5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 100% CORDURA®polyamide, 205 g/m²"
+#6151,PANTS/SHORTS,"Main: 47% cotton, 53% polyester, 251 g/m². Contrast: 91,5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 100% CORDURA® polyester, 320 g/m². Reinforcement: 100% CORDURA® polyamide, 205 g/m².   
+Colour 0904; Main: 61% polyester 39% Sorona® polyester, 252 g/m². Contrast: 91.5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 100% CORDURA®polyamide, 205 g/m²"
+#6153,PANTS/SHORTS,"Main: 47% cotton, 53% polyester, 237 g/m2. Contrast: 92% polyamide, 8% elastane, 250 g/m2. Reinforcement: 100% polyamide CORDURA®, 205 g/m2.
+Colour 0904; Main: 61% polyester 39% Sorona® polyester, 252 g/m². Contrast: 91.5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 100% CORDURA®polyamide, 205 g/m²"
+#6160,PANTS/SHORTS,"49% Modacrylic FR, 42% Cotton, 5% Aramid, 3% Polyamide, 1% Antistatic, 300 g/m²"
+#6161,PANTS,"Material: 49% modacrylic FR, 42% cotton, 5% aramid, 3% polyamide, 1% antistatic, 300 g/m².
+Reinforcement: 39% modacrylic, 28% CORDURA®, 17% cotton, 15% aramid, 1% antistatic, 270 g/m²."
+#6172,PANTS/SHORTS,"Material: Main: 100% polyester 225, g/m². Contrast: 88% polyamide, 12% elastane, 275, g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#6173,PANTS/SHORTS,"Main: 88% polyester, 12% elastane, 218 g/m².
+Contrast: 65% polyester, 35% Sorona® polyester 210 g/m².
+Reinforcement: 100% CORDURA® polyamide 205 g/m².
+"
+#6175,PANTS/SHORTS,"Main: 88% polyester, 12% elastane, 218 g/m².
+Contrast: 65% polyester, 35% Sorona® polyester 210 g/m².
+Reinforcement: 100% polyamide CORDURA® 205 g/m².
+"
+#6178,PANTS,"Main: 88% polyester, 12% elastane, 218 g/m².
+Contrast: 65% polyester, 35% Sorona® polyester 210 g/m².
+Reinforcement: 100% polyamide CORDURA® 205 g/m².
+Reinforcement:100% polyester CORDURA® 330 g/m².
+"
+#6201,PANTS,"Main: 69% polyamide, 31% cotton, 250 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#6202,PANTS,"Main: 57% polyamide, 43% cotton, 310 g/m².Reinforcement: 100% polyamide CORDURA®, 290 g/m²."
+#6208,PANTS,"Main: 84% polyamide, 16% elastane,193 g/m2.  Contrast: 88% polyamide, 12% elastane, 275 g/m2.  Reinforcement: 100% polyamide CORDURA®, 205 g/m2."
+#6210,PANTS,"Main: 45% polyester, 30% 37.5® polyester, 25% cotton, 202 g/m2. Reinforcement: 100% polyamide CORDURA®, 250 g/m2."
+#6214,PANTS,"Main: 60% cotton, 40% polyester, 340 g/m². Reinforcement: 100% polyamide CORDURA® 1000, 290 g/m²."
+#6215,PANTS,"Main: 100% cotton, 380 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#6224,PANTS,"Main: 63% polyester, 37% cotton, 360 g/m². Reinforcement 1: 100% polyamide CORDURA®, 205 g/m². Reinforcement 2: 100% polyester CORDURA®, 320 g/m²."
+#6230,PANTS,"Main: 85% polyester, 15% cotton, 270 g/m².  Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#6233,PANTS,"Colour 0455, 0466 / Main: 69% polyamide, 31% cotton, 250 g/m2. Contrast: 85% polyester, 15% cotton, 270 g/m2. Reinforcement: 100% polyamide CORDURA®, 205 g/m².Colour 9566 / Main: 85% polyester, 15% cotton, 270 g/m2. Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#6234,PANTS,"Main: 61% polyester, 39% Sorona® polyester, 260 g/m².  Reinforcement: 100% CORDURA® polyamide, 205 g/m².  Reinforcement: 53% CORDURA® stretch solution dyed polyamide, 47% CORDURA® solution dyed polyester, 283 g/m². "
+#6241,PANTS,"Main: 47% cotton, 53% polyester, 251 g/m². Contrast: 91.5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 100% CORDURA®, polyester 320 g/m². Reinforcement: 100% CORDURA® polyamide, 205 g/m².  Colour 0904; Main: 61% polyester 39% Sorona® polyester, 252 g/m². Contrast: 91.5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 53% solution dyed CORDURA®polyamide, 47% solution dyed CORDURA® polyester, 283 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²"
+#6243,PANTS,"Main: 61% polyester, 39% Sorona® polyester, 260 g/m². Reinforcement: 100% CORDURA® polyamide, 205 g/m². Reinforcement: 53% solution dyed CORDURA® polyamide, 47% CORDURA® solution dyed polyester, 283 g/m²"
+#6247,PANTS,"Main: 47% cotton, 53% polyester, 251 g/m². Contrast: 91.5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 100% CORDURA®, polyester 320 g/m². Reinforcement: 100% CORDURA® polyamide, 205 g/m².   
+Colour 0904; Main: 61% polyester 39% Sorona® polyester, 252 g/m². Contrast: 91.5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 53% solution dyed CORDURA® polyamide, 47% solution dyed CORDURA® polyester, 283 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²"
+#6251,PANTS,"Main: 47% cotton, 53% polyester, 251 g/m². Contrast: 91.5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 100% CORDURA®, polyester 320 g/m². Reinforcement: 100% CORDURA® polyamide, 205 g/m².  Colour 0904; Main: 61% polyester 39% Sorona® polyester, 252 g/m². Contrast: 91.5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 53% solution dyed CORDURA®polyamide, 47% solution dyed CORDURA® polyester, 283 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²"
+#6260,PANTS,"Main: 55% Protal®, 44% Cotton, 1% Antistatic, 275 gram. Reinforcement: 39% Modacrylic, 28% CORDURA®, 17% Cotton, 15% Aramid, 1% Antistatic, 270 gram.
+"
+#6261,PANTS,"Main: 49% modacrylic FR, 42% cotton, 5% aramid, 3% polyamide, 1% antistatic, 300g/m². Reinforcement: 39% modacrylic, 28% CORDURA®, 17% cotton, 15% aramid, 1% antistatic, 270 g/m².
+"
+#6262,PANTS,"Main: 49% modacrylic FR, 42% cotton, 5% aramid, 3% polyamide, 1% antistatic, 300g/m². Reinforcement: 39% modacrylic, 28% CORDURA®, 17% cotton, 15% aramid, 1% antistatic, 270 g/m².
+"
+#6263,PANTS,"Main: 49% modacryl FR, 42% cotton, 5% aramid, 3% polyamide, 1% antistatic, 300 g/m². Reinforcement: 39% modacrylic, 28% CORDURA®, 17% cotton, 15% aramid, 1% antistatic, 270 g/m².
+"
+#6264,PANTS,"Main: 49% modacrylic FR, 42% cotton, 5% aramid, 3% polyamide, 1% antistatic, 300 g/m². Reinforcement: 100% para-aramid, 545 g/m²."
+#6265,PANTS,"49% Modacrylic FR, 42% Cotton, 5% Aramid, 3% Polyamide, 1% Antistatic, 300g/m². Reinforced with 100% para-aramid, 545 g/m².
+"
+#6266,PANTS,"Main: 31% polyester, 28% modacrylic, 20% Aramid Kermel®, 20% CV FR, 1% antistatic, 320 g/m2. Reinforcement: 39% modacrylic, 28% CORDURA®, 17% cotton, 15% aramid, 1% antistatic, 270 g/m2."
+#6268,PANTS,"Main: 52% modacrylic, 34% cotton, 10% polyamide FR, 3% elastane, 1% antistatic, 260 g/m². Reinforcement: 39% modacrylic, 28% CORDURA®, 17% cotton, 15% aramid, 1% antistatic, 270 g/m²."
+#6271,PANTS,"Main: 91.5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 100% polyester CORDURA®, 320 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#6275,PANTS,"Main: 88 % polyester, 12 % elastane, 218 g/m².
+Contrast: 65% polyester, 35% Sorona® polyester 210 g/m².
+Reinforcement: 100% polyamide CORDURA® 205 g/m².
+Reinforcement:100% polyester CORDURA® 330 g/m².
+"
+#6276,PANTS,"Main: 55% Protal®, 44% Cotton, 1% Antistatic, 275 gram. Reinforcement: 39% Modacrylic, 28% CORDURA®, 17% Cotton, 15% Aramid, 1% Antistatic, 270 gram."
+#6286,PANTS,"Main: 55% Protal®, 44% Cotton, 1% Antistatic, 275 gram. Reinforcement: 39% Modacrylic, 28% CORDURA®, 17% Cotton, 15% Aramid, 1% Antistatic, 270 gram."
+#6301,PANTS,"Main: 69% polyamide, 31% cotton, 250 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#6310,PANTS,"Main: 45% polyester, 30% 37.5® polyester, 25% cotton, 202 g/m2. Reinforcement: 100% polyamide CORDURA®, 250 g/m2."
+#6314,PANTS,"Main: 60% cotton, 40% polyester, 340 g/m². Reinforcement: 100% polyamide CORDURA®, 290 g/m²."
+#6324,PANTS,"Main: 63% polyester, 37% cotton, 360 g/m². Reinforcement 1: 100% polyamide CORDURA®, 205 g/m². Reinforcement 2: 100% polyester CORDURA®, 320 g/m²."
+#6331,PANTS,"Main: 85% polyester, 15% cotton, 270 g/m².  Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#6332,PANTS,"Main: 100% polyester, 200 g/m². Reinforcements: 100% polyamide CORDURA®, 205 g/m²."
+#6334,PANTS,"Main: 61% polyester, 39% Sorona® polyester, 260 g/m².  Reinforcement: 100% polyamide CORDURA®, 205 g/m². Reinforcement: 53% solution dyed CORDURA® polyamide, 47% CORDURA® solution dyed polyester, 283 g/m²"
+#6341,PANTS,"Main: 47% cotton, 53% polyester, 251 g/m². Contrast: 91.5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 100% CORDURA®, polyester 320 g/m². Reinforcement: 100% CORDURA® polyamide, 205 g/m². Colour 0904; Main: 61% polyester 39% Sorona® polyester, 252 g/m². Contrast: 91.5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 53% solution dyed CORDURA® polyamide, 47% solution dyed CORDURA® polyester, 283 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²"
+#6343,PANTS,"Main: 61% polyester, 39% Sorona® polyester, 260 g/m². Reinforcement 1: 100% polyamide CORDURA®, 205 g/m². Reinforcement 2: 53% polyamide CORDURA®, 47% polyester CORDURA®, 283 g/m²."
+#6351,PANTS,"Main: 47% cotton, 53% polyester, 251 g/m². Contrast: 91.5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 100% CORDURA®, polyester 320 g/m². Reinforcement: 100% CORDURA® polyamide, 205 g/m².  Colour 0904; Main: 61% polyester 39% Sorona® polyester, 252 g/m². Contrast: 91.5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 53% solution dyed CORDURA® polyamide, 47% solution dyed CORDURA® polyester, 283 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²"
+#6360,PANTS,"Main: 55% Protal, 44% Cotton, 1% Antistatic, 275 gram. Reinforcement: 39% Modacrylic, 28% CORDURA®, 17% Cotton, 15% Aramid, 1% Antistatic, 270 gram."
+#6361,PANTS,"Main: 49% modacrylic FR, 42% cotton, 5% aramid, 3% polyamide, 1% antistatic, 300g/m². Reinforcement: 39% modacrylic, 28% CORDURA®17% cotton, 15% aramid, 1% antistatic, 270 g/m²."
+#6362,PANTS,"Main: 49% modacrylic FR, 42% cotton, 5% aramid, 3% polyamide, 1% antistatic, 300g/m². reinforcement: 39% modacrylic, 28% CORDURA® 17% cotton, 15% aramid, 1% antistatic, 270 g/m²."
+#6363,PANTS,"Main: 49% modacryl FR, 42% cotton, 5% aramid, 3% polyamide, 1% antistatic, 300 g/m². Reinforcement: 39% modacrylic, 28% CORDURA®, 17% cotton, 15% aramid, 1% antistatic, 270 g/m²."
+#6364,PANTS,"Main: 49% modacrylic FR, 42% cotton, 5% aramid, 3% polyamide, 1% antistatic, 300 g/m². Reinforcement: 100% para-aramid, 545 g/m²."
+#6365,PANTS,"49% Modacrylic FR, 42% Cotton, 5% Aramid, 3% Polyamide, 1% Antistatic, 300g/m². Reinforced with 100% para-aramid, 545 g/m²."
+#6366,PANTS,"Main: 31% polyester, 28% modacrylic, 20% Aramid Kermel®, 20% CV FR, 1% antistatic, 320 g/m2. Reinforcement: 39% modacrylic, 28% CORDURA®, 17% cotton, 15% aramid, 1% antistatic, 270 g/m2."
+#6367,PANTS,"Main: 49% modacrylic FR, 42% cotton, 5% aramid, 3% polyamide, 1% antistatic, 300g/m². 
+Stretch fabric: 33% Modacrylic, 28% Cotton, 19% Viscose, 14% Aramid, 5% Elastane, 1% Antistatic, 240 g/m2
+Reinforcement: 39% Modacrylic, 28/% Cordura, 17% Cotton, 15% Aramid, 1% Antistatic,  270 g/m2 "
+#6371,PANTS,"91.5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 100% polyester CORDURA®, 320 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#6375,PANTS,"Main: 88 % polyester, 12 % elastane, 218 g/m².
+Contrast: 65% polyester, 35% Sorona® polyester 210 g/m².
+Reinforcement: 100% polyamide CORDURA® 205 g/m².
+Reinforcement: 100% polyester CORDURA® 330 g/m².
+"
+#6376,PANTS,"Main: 55% Protal, 44% Cotton, 1% Antistatic, 275 gram. Reinforcement: 39% Modacrylic, 28% CORDURA®, 17% Cotton, 15% Aramid, 1% Antistatic, 270 gram."
+#6386,PANTS,"Main: 55% Protal, 44% Cotton, 1% Antistatic, 275 gram Reinforcement: 39% Modacrylic, 28% Cordura, 17% Cotton, 15% Aramid, 1% Antistatic, 270 gram"
+#6400,PANTS,"65% Polyester, 35% Cotton, 260g/m2."
+#6515,PANTS,"Main: 94% polyamide, 6% elastane, 250 g/m2. Contrast: 91.5% polyamide, 8.5% elastane, 250 g/m2. Reinforcement: 100% polyamide CORDURA®, 320 g/m2. Detail: 88% polyamide CORDURA®, 12% elastane, 205 g/m2."
+#6530,PANTS,"Main: 100% polyester, 137 g/m². Reinforcements: 100% nylon, 305 g/m². Lining: 100% solution dyed polyamide 65 g/m². "
+#6541,PANTS,"Main: 47% cotton, 53% polyester, 251 g/m2. 
+Contrast: 91,5% polyamide, 8.5% elastane, 250 g/m2. 
+Reinforcement 1: 100% polyester CORDURA®, 320 g/m2. 
+Reinforcement 2: 100% polyamide CORDURA®, 205 g/m2.
+
+"
+#6560,PANTS,"Main: 31% polyester, 28% modacrylic, 20% Aramid Kermel®, 20% CV FR, 1% antistatic, 320 g/m2. Reinforcement: 100% aramid, 545 g/m2."
+#6562,PANTS,"Main: 31% polyester, 28% modacrylic, 20% Aramid Kermel®, 20% CV FR, 1% antistatic, 320 g/m2. Reinforcement: 100% aramid, 545 g/m2."
+#6563,PANTS,"Main: 55% Protal®, 44% cotton, 1% antistatic, PU laminated, 265 g/m2.
+Lining: 50% meta-aramid, 50% viscose FR, 120 g/m2.
+Reinforcement: 39% modacrylic, 28% CORDURA®, 17% cotton, 15% aramid, 1% antistatic, 270 g/m2."
+#6568,PANTS,"Main: 99,4% PES, 0,6% Carbon, 215 g/m². Lining: 50% meta-aramid, 50% Viscose 1, 120 g/m².Reinforcement: 39% Modacrylic, 28% CORDURA®, 17% Cotton, 15% Aramid, 1% Antistatic, 270 g/m²."
+#6580,PANTS,"Main: 100% GORETEX® polyester 140 g/m². Reinforcement: 100% GORETEX® polyamide 190 g/m². Reinforcement: 100% CORDURA polyamide® 205 g/m². Reinforcement: 77% polyamide, 13% REF, 6% polyamide, 4% PU, 255 g/m².  Insulation: 50% 37.5® polyester, 35% REPREVE® recycled polyester, 15% polyester, 60 g/m². "
+#6590,PANTS,"Material: Main: 47% cotton, 53% polyester, 250g/m². Contrast stretch back thigh panels: 91,5% polyamide, 8.5% elastane, 250g/m². Reinforcement 1; knee pad: 100% polyester CORDURA®, 320g/m². 
+Reinforcement 2; pockets: 100% polyamide CORDURA®,
+Details front panels and gusset: 88% polyamide, 12% elastane"
+#6593,PANTS,"Main: 47% cotton, 53% polyester, 237g/m². Contrast stretch back thigh panels: 91,5% polyamide, 8.5% elastane, 250g/m². Reinforcement 1; knee pad: 100% polyester CORDURA®, 320g/m². 
+Reinforcement 2; pockets: 100% polyamide CORDURA® 205 g/m².
+Details front panels and gusset: 88% polyamide, 12% elastane, 270 g/m².
+"
+#6619,PANTS,"Main: 100% polyamide 250 g/m². Reinforcement: 100% CORDURA polyamide ® 205 g/m². Lining: 100% solution dyed polyamide 65 g/m². Insulation: 50% 37.5® polyester, 35% REPREVE® recycled polyester, 15% polyester, 60 g/m². Pocket lining: 100% polyester, 215 g/m²."
+#6620,PANTS,"Main: 100% Polyamide 250 g/m². Reinforcement: 100% Polyamide CORDURA® 205 g/m². Isolation: 50% 37.5® Polyester, 35% Repreve® recycled Polyester, 15% Polyester 60 g/m²."
+#6630,PANTS,"Main: 100% polyester, 230 g/m2.
+Reinforcement: 100% polyamide CORDURA®, 216 g/m2.
+Lining: 100% polyamide.
+Insulation: 50% 37.5® polyester, 35% Repreve® polyester, 15% polyester, 60 g/m2.
+"
+#6639,PANTS,"Main: 100% polyester, 220 g/m². Reinforcement: 100% CORDURA® polyamide 205 g/m². Lining: 100% solution dyed polyamide 65 g/m². Insulation: 50% 37.5® polyester, 35% REPREVE® recycled polyester, 15% polyester 60 g/m². Pocket lining: 100% polyester, 215 g/m²"
+#6663,PANTS,"Main: 55% Protal®, 44% cotton, 1% antistatic, PU laminated, 265 g/m².
+Reinforcement: 39% modacrylic, 28% CORDURA®, 17% cotton, 15% aramid, 1% antistatic, 270 g/m².
+Lining: 50% meta-aramid, 50% viscose FR, 120 g/m².
+Padding: 100% polyester, 110 g/m²."
+#6700,PANTS,"65% Polyester, 35% Cotton, 260g/m2."
+#6701,PANTS,"Main: 69% polyamide, 31% cotton, 250 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#6703,PANTS,"Main: 47% cotton, 31% polyester, 22% elastane, 251 g/m². Stretch fabric: 91.5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 100% polyamide 205 g/m²."
+#6730,PANTS,"Main: 85% polyester, 15% cotton, 270 g/m2. Contrast: 94% polyester, 6% elastane, 330 g/m2.Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#6734,PANTS,"Main: 61% polyester, 39% Sorona® polyester, 252 g/m². 
+Reinforcement: 100% CORDURA® polyamide, 205 g/m². 
+Reinforcement: 53% solution dyed CORDURA® polyamide, 47% CORDURA® solution dyed polyester, 283 g/m²
+"
+#6743,PANTS,"Main: 61% polyester, 39% Sorona® polyester, 260 g/m².  Reinforcement: 100% polyamide CORDURA®, 205 g/m². Reinforcement: 53% solution dyed CORDURA® polyamide, 47% CORDURA® solution dyed polyester, 283 g/m²"
+#6760,PANTS,"49% modacrylic FR, 42% cotton, 5% aramid, 3% polyamide, 1% antistatic, 300g/m². 
+Stretch fabric: 33% Modacrylic, 28% Cotton, 19% Viscose, 14% Aramid, 5% Elastane, 1% Antistatic, 240 g/m2
+Reinforced with: 39% Modacrylic, 28/% Cordura, 17% Cotton, 15% Aramid, 1% Antistatic,  270 g/m2 
+"
+#6771,PANTS,"Main: 91.5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 100% polyester CORDURA®, 320 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#6775,PANTS,"Main: 88% Polyester, 12% Elastane. Contrast: 65% Polyester, 35% Sorona.
+"
+#6797,PANTS,"49% modacrylic, 42% cotton, 5% aramid, 3% polyamide, 1% antistatic, 300g/m². Stretch fabric: 33% Modacrylic, 28% Cotton, 19% Viscose, 14% Aramid, 5% Elastane, 1% Antistatic, 240 g/m2Reinforced with: 39% Modacrylic, 28/% Cordura, 17% Cotton, 15% Aramid, 1% Antistatic,  270 g/m2 "
+#6800,PANTS,"65% Polyester, 35% Cotton, 260g/m2."
+#6801,PANTS,"Main: 65% Polyester, 35% Cotton, 260g/m2. 
+Reinforcement: 100% CORDURA®-Polyamide."
+#6803,PANTS,"Main: 47% cotton, 31% polyester, 22% elastane, 251 g/m². Stretch fabric: 91.5% polyamide, 8.5% elastane, 250 g/m². Reinforcement: 100% polyamide 205 g/m²."
+#6873,PANTS,"Main:92% recycled polyester, 8% elastane, 260 g/m2. Reinforcement: 88% polyamide, 12% elastane, 275 g/m2. "
+#6901,PANTS,"Main: 100% Polyamide 2-layer shell fabric,145g/m2.
+Reinforcement: 100% Polyamide 3-layer CORDURA® ,315g/m2. 
+Lining: 100% Polyester, 67g/m2"
+#6902,PANTS,"Main: Stretch CORDURA® 88% polyamide CORDURA® ,12% elastane, 270 g/m2. Ripstop: 65% polyester, 35% cotton, 200 g/m2. Reinforcement: 100% polyamide CORDURA®, 205 g/m2."
+#6903,PANTS,"Main: Stretch CORDURA® 88% polyamide CORDURA® ,12% elastane, 270 g/m2. Ripstop: 65% polyester, 35% cotton, 200 g/m2. Reinforcement: 100% polyamide CORDURA®, 205 g/m2."
+#6904,PANTS/SHORTS,"Main: Stretch CORDURA® 88% polyamide CORDURA® ,12% elastane, 270 g/m2. Ripstop: 65% polyester, 35% cotton, 200 g/m2. Reinforcement: 100% polyamide CORDURA®, 205 g/m2."
+#6905,PANTS,"Main: Stretch CORDURA® 88% polyamide CORDURA® ,12% elastane, 270 g/m2. Ripstop: 65% polyester, 35% cotton, 200 g/m2. Reinforcement: 100% polyamide CORDURA®, 205 g/m2."
+#6914,PANTS/SHORTS,"Main: Stretch CORDURA® 88% polyamide CORDURA® ,12% elastane, 270 g/m2. Ripstop: 65% polyester, 35% cotton, 200 g/m2. Reinforcement: 100% polyamide CORDURA®, 205 g/m2."
+#6923,PANTS,"Main: 65% polyester, 35% cotton, 225 g/m2. Reinforcement 1: Armortex® 56% polyamide, 26% elastane, 18% DuPont™ Kevlar® aramid fibers.Reinforcement 2: 100% polyamide CORDURA®, 205 g/m²."
+#6931,PANTS,"Main: 65% polyester, 35% cotton, 200 g/m2. Contrast 1: 88% polyamide CORDURA®; 12% Elastan, 275 g/m2. Contrast 2: 100% polyester, 200 g/m². Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#6932,PANTS,"Main: 100% polyester; 200 g/m2.Contrast: 88% polyamide CORDURA®, 12% elastane, 275 g/m2.Reinforcement: 100% polyamide CORDURA®, 205 g/m²."
+#6933,PANTS/SHORTS,"Main: 100% Polyester.
+
+Contrast: 88% Polyamide CORDURA® 12% Elastane.
+Reinforcement: 100% Polyamide CORDURA®."
+#6934,PANTS,"Main: Sorona Ripstop Stretch 100% polyester 225, g/m². Contrast: 88% polyamide, 12% elastane, 275, g/m². Reinforcement 1: 100% polyamide CORDURA®, 205 g/m². Reinforcement 2: 100% Polyamide, 290 g/m². Mesh: 100% solution dyed recycled polyester 69 g/m²"
+#6940,PANTS,"Main: 73% polyamide, 20% polyurethane, 7% elastane Schoeller®, 220 g/m². Contrast: 84% polyamide, 16% elastane, 298 g/m².Reinforcement 1: 100% polyamide CORDURA®, 305 g/m².Reinforcement 2: Armortex® 56% polyamide, 26% elastane, 18% DuPont™ Kevlar® aramid fibers, 380 g/m²."
+#6943,PANTS,"Main: 100% polyester (36% Sorona polyester) 225, g/m2. Contrast: 88% polyamide, 12% elastane. Reinforcement 1: 100% polyamide CORDURA®, 275 g/m2. Reinforcement 2: 100% polyamide, 290 g/m2. "
+#6944,PANTS,"Main: 51% polyamide, 40% polyamide CORDURA®, 9% elastane, 220 g/m². Contrast: 92% polyamide, 8% elastane, 250 g/m².Reinforcement 1: 100% polyamide CORDURA®, 205 g/m².Reinforcement 2: 100% polyester CORDURA®, 320 g/m²."
+#6948,PANTS,"Main: 73% polyamide, 20% polyurethane, 7% elastane Schoeller®, 220 g/m². 
+Contrast: 84% polyamide, 16% elastane, 284 g/m².
+Reinforcement 1: 100% polyamide CORDURA®, 305 g/m².
+
+"
+#6955,PANTS,"Main: 82% cotton, 14% CORDURA® polyamide, 3% recycled polyester, 1% elastane, 317 g/m². Contrast: 92% polyamide, 8% elastane, 250 g/m². Reinforcement: 100% CORDURA®, polyamide 205 g/m². Reinforcement: 100% CORDURA® polyester, 320 g/m²."
+#6956,PANTS,"Main: 82% cotton, 14% CORDURA® polyamide, 3% recycled polyester, 1% elastane, 317 g/m². Contrast: 92% polyamide, 8% elastane, 250 g/m². Reinforcement: 100% CORDURA®, polyamide 205 g/m². "
+#6972,PANTS,"Main: 64% polyester 36% Sorona® Polyester 225, g/m². Contrast: 88% polyamide, 12% elastane, 275, g/m². Reinforcement 1: 100% polyamide CORDURA®, 205 g/m². Reinforcement 2: 100% polyester CORDURA®, 320 g/m². Mesh: 100% solution dyed recycled polyester 69 g/m²"
+#7505,PANTS,"Main: 65% Polyester 35% Cotton.
+Contrast: 88% Polyamide CORDURA® 12% Elastane.
+Reinforcement: 100% Polyamide CORDURA®."
+#7507,JACKET,"Main: 100% polyester, 300 g/m2.Reinforcement: 100% polyamide CORDURA®, 205 g/m2."
+#7512,SWEATER/HOODIE,"Col 0400 and 2800: 82% cotton, 18% polyester, 280 g/m2.
+2X2 Rib: 97% cotton, 3% elastane, 380 g/m2.
+"
+#7514,TSHIRT,"Col 0400: 100% cotton, 200 g/m2. 
+Col 2800: 95% cotton, 5 % viscose 200 g/m2. 
+"
+#8002,SWEATER/HOODIE,"Polartec® Power Stretch®: 84% recycled polyester, 16% elastane, 224 g/m2"
+#8003,JACKET,"Polartec® Power Stretch®: 84% recycled polyester, 16% elastane, 224 g/m2"
+#8004,JACKET,"Main: 100% 37.5® polyester, 240 g/m²."
+#8005,JACKET,"Main: 100% Polyester 300 gsm.
+Reinforcement: 100% Polyamide CORDURA®."
+#8016,JACKET,"Main: Polartec Thermal Pro®: 77% recycled polyester, 23% polyester, 295 g/m2
+Contrast: 100% polyamide 67 g/m2 
+Cuff: 98% recycled polyester, 2% Elastane, 550g/m2
+"
+#8017,JACKET,100% 37.5® polyester 240 g/m².
+#8018,JACKET,"Main: 100% Polyester. Contrast: 100% Polyamide CORDURA®, 380 g/m²."
+#8019,JACKET,"78% Wool, 19% Viscose, 3% Elastane, 350 g/m²"
+#8021,JACKET,"100% polyester, 380 g/m2.  Contrast fabric: 100% Polyamid, 67 g/m2.  "
+#8022,JACKET,"Polartec® INSULATION: 80% recycled polyester 20% polyester, 193 g/m²"
+#8023,JACKET,"84% recycled polyester, 16% elastane, 224 g/m2"
+#8024,JACKET,"Polartec® INSULATION: 80% recycled polyester 20% polyester, 193 g/m²"
+#8025,SWEATER/HOODIE, 91% Polyester 9% Elastane. 242 g/m²
+#8026,SWEATER/HOODIE,"84% recycled polyester, 16% elastane, 224 g/m2"
+#8027,JACKET,"Polartec® INSULATION: 80% recycled polyester 20% polyester, 193 g/m²"
+#8028,JACKET,91% Polyester 9% Elastane. 242 g/m²
+#8029,JACKET, 91% Polyester 9% Elastane. 242 g/m²
+#8031,TSHIRT,"100% polyester, 235 g/m2."
+#8034,JACKET,"100% polyester, 235 g/m2."
+#8035,JACKET,"Main: 100% polyester, 235 g/m²."
+#8036,JACKET,"Main: 100% polyester, 235 g/m²."
+#8037,TSHIRT,"Main: 100% polyester, 235 g/m²."
+#8039,SWEATER/HOODIE,"Main: 100% polyester, 235 g/m²."
+#8041,SWEATER/HOODIE,"Main: 100% polyester, 210g/m2."
+#8042,JACKET,"100% polyester mesh fleece, 210 g/m²."
+#8044,SWEATER/HOODIE,"Main face: 71% recycled polyester, 25% polyester, 4% elastane, Main backing: 95% recycled polyester, 5% elastane, 388 g/m². Contrast: 95% recycled polyester, 5% elastane 290 g/m². Pocket lining: 100% polyester, 69 g/m². "
+#8045,JACKET,"Main face: 71% recycled polyester, 25% polyester, 4% elastane, Main backing: 95% recycled polyester, 5% elastane, 388 g/m². Contrast: 95% recycled polyester, 5% elastane 290 g/m². Pocket lining: 100% polyester, 69 g/m². "
+#8047,SWEATER/HOODIE,"100% polyester, 210 g/m2."
+#8057,SWEATER/HOODIE,"Main fabric: 48% Repreve® polyester, 52% recycled polyester, 255 g/m2."
+#8058,SWEATER/HOODIE,"Main: 48% REPREVE® recycled polyester, 52% recycled polyester, 256 g/m². Pocket lining: 100% polyester, 69 g/m². "
+#8059,JACKET,"Main fabric: 48% Repreve® polyester, 52% recycled polyester, 255 g/m2."
+#8070,SWEATER/HOODIE,"Polartec®: 61% recycled polyester, 39% polyester, 207 g/m2. 
+Mesh: 100% polyester, 69 g/m2.
+"
+#8073,JACKET,"100% polyester, 235 g/m2."
+#8075,SWEATER/HOODIE,"Polartec®: 61% recycled polyester, 39% polyester, 207 g/m2. 
+Mesh: 100% polyester, 69 g/m2.
+"
+#8077,JACKET,"100% polyester, 235 g/m²."
+#8101,JACKET,"Main: 100% polyamide 67 g/m². Reinforcement: 88% CORDURA® polyamide, 12% elastane, 270 g/m². Contrast: 90% polyester, 10% elastane, 220 g/m². Cuff stretch: 90% polyester 10% elastane, 253 g/m².  Insulation: 50% 37.5® polyester, 35% REPREVE® recycled polyester, 15% polyester, 140 g/m². Pocket lining: 100% polyester, 215 g/m². "
+#8102,JACKET,"Main: 97% Recycled Polyamide, 3% PU.                                                                 Lining: 100% Recycled polyamide.            
+Insulation: 100% Recycled Polyester (60% Sorona® Polyester, 40% Polyester)"
+#8107,JACKET,"Main: 100% polyamide 67 g/m². Reinforcement: 88% CORDURA® polyamide, 12% elastane, 270 g/m². Contrast: 90% polyester, 10% elastane, 220 g/m². Cuff stretch: 90% polyester 10% elastane, 253 g/m².  Insulation: 50% 37.5® polyester, 35% REPREVE® recycled polyester, 15% polyester, 140 g/m². Pocket lining: 100% polyester, 215 g/m². "
+#8133,JACKET,"Material: Main: 100% polyester 150 g/m². Contrast: 90% polyester, 10% elastane 250 g/m². Reinforcement: 88% polyamide CORDURA® 12% elastane  275 g/m². Lining: 100% polyamide 65 g/m². Padding: 100% polyester, 90% of the isolation is made of Repreve® Polyester 80 g/m²."
+#8134,JACKET,"Main: 100% polyester 150 g/m². Contrast: 90% polyester, 10% elastane, 253 g/m².  Reinforcement: 88% CORDURA® polyamide 12%, elastane 275 g/m². Lining: 100% solution dyed polyamide 65 g/m². Insulation: 90% REPREVE® recycled polyester, 10% polyester, 180 g/m². Pocket lining: 100% polyester, 215 g/m²."
+#8200,JACKET,"100% Polyester, 190 g/m²."
+#8201,PANTS,"100% Polyester, 190 g/m²."
+#8233,JACKET,"100% Polyester tricot, 220 g/m²."
+#8243,PANTS,"100% Polyester, 220 g/m²."
+#8261,JACKET,"Main: 100% polyester, 256 g/m². Coating: 100% polyurethane."
+#8267,PANTS,Main: 100% PU laminated Polyester.
+#8269,PANTS,100% PU laminated Polyester.
+#8378,WORKWEAR/COVERALL,100% polyamide 130 g/m².
+#8400,SWEATER/HOODIE,"C0 finish. 49% recycled polyester, 31% polyester, 20% Polyamide, 290G . 5000 g/M2 breathability. Stretchy interlock fabric. Rib: 98% Recycled Polyester, 2% Elastane Mesh: 100% Polyester"
+#8404,JACKET,"Main Material: 97% Recycled Polyester 3% Elastane, 295 g Contrast;"
+#8405,SWEATER/HOODIE,"Main Material: 97% Recycled Polyester 3% Elastane, 295 g Contrast;"
+#8510,SHIRT,"65 % Polyester, 35 % Cotton, 155 g/m²."
+#8516,SHIRT,"Main: 100% cotton, 165 g/m²."
+#8520,SHIRT,"Main: 74% polyamide, 22% REPREVE® recycled polyamide 4% elastane 149 g/m². Mesh: 90% polyester, 10% elastane, 98 g/m²"
+#8521,SHIRT,"Main: 74% polyamide, 22% REPREVE® recycled polyamide 4% elastane 149 g/m². Mesh: 90% polyester, 10% elastane, 98 g/m²"
+#8522,SHIRT,"Main fabric: 75% cotton, 25% nylon, 280 g/m2. Pile: 100% polyester, 190 g/m2.
+Padding: 100% polyester, 60 g/m2.
+"
+#8555,SHIRT,"Color: 6500/ Main: 99% cotton, 1% elastane, 255 g/m²."
+#8560,SHIRT,"55% Protal, 44% cotton, 1% antistatic, 200 g/m²."
+#8561,SHIRT,"55% Protal, 44% cotton, 1% antistatic, 200 g/m²."
+#8562,SHIRT,"55% Protal, 44% cotton, 1% antistatic, 200 g/m²."
+#8563,SHIRT,"55% Protal®, 44% cotton, 1% antistatic, 275 g/m²."
+#8564,SHIRT,"55% Protal®, 44% cotton, 1% antistatic, 275 g/m²."
+#8565,SHIRT,"55% Protal®, 44% cotton, 1% antistatic, 275 g/m²."
+#9004,ACCESSORY/BELT,100% Polyester.
+#9007,ACCESSORY/SUN-HAT,"Main: Dobby Pro+ 47% Polyamide, 53% Cotton, 310 g/m². 
+Padding: 100% Polyester, 200 g/m2.
+Lining:100% Polyamide."
+#9008,ACCESSORY/CAP-HAT,"Main: 100% Polyamide. 
+Lining: 100% Polyester"
+#9009,ACCESSORY/KNIT-CAP,"100% merino wool, 160 g/m2."
+#9014,ACCESSORY/KNIT-CAP,"95% Cotton, 5% Elastane"
+#9015,ACCESSORY/KNIT-CAP,100% Acrylic.
+#9017,ACCESSORY/KNIT-CAP,100% Cotton.
+#9018,ACCESSORY/BELT,"95% Polyester, 5% Elastane."
+#9019,ACCESSORY/HEADBAND,"100% merino wool, 160 g/m2."
+#9020,ACCESSORY/BELT,"95% polyester, 5% elastane"
+#9022,ACCESSORY/CAP-HAT,"100% merino wool, 160 g/m2."
+#9023,ACCESSORY/KNIT-CAP,"50% Wool, 50% Acrylic."
+#9024,ACCESSORY/KNIT-CAP,"100% Polyester.
+"
+#9027,ACCESSORY/KNIT-CAP,100% acrylic
+#9030,ACCESSORY/KNIT-CAP,"100% Polyester.
+"
+#9031,ACCESSORY/KNIT-CAP,100% recycled polyester
+#9033,ACCESSORY/BELT,100% Polyester.
+#9034,ACCESSORY/BELT,100% leather.
+#9035,ACCESSORY/KNIT-CAP,100% acrylic.
+#9041,ACCESSORY/CAP-HAT,"100% Cotton, 260 g/m²."
+#9046,ACCESSORY/SCARF,"84% recycled polyester, 16% elastane, 224 g/m2."
+#9047,ACCESSORY/KNIT-CAP,100% acrylic.
+#9048,ACCESSORY/KNIT-CAP,"84% recycled polyester, 16% elastane, 224 g/m2."
+#9050,ACCESSORY/BELT,"90% Polyester, 10% Lycra."
+#9052,ACCESSORY/MASK,"72% Polyamide, 26% Polypropylene,
+2% Elastane."
+#9053,ACCESSORY/MASK,"72% Polyamide, 26% Polypropylene,
+2% Elastane"
+#9054,ACCESSORY/CAP-HAT,"92% Polyamide, 8% Elastane."
+#9055,ACCESSORY/KNIT-CAP,"50% wool, 50% acrylic."
+#9062,ACCESSORY/MASK,"68% wool, 30% modacrylic, 2% Belltron™, 450 g/m2."
+#9064,ACCESSORY/BELT,"70% polyester, 30% Lycra."
+#9065,ACCESSORY/MASK,"Main: 49% Modacrylic FR, 42% Cotton, 5% Aramid, 3% Polyamide, 1% Antistatic, 300 g/m². 
+Lining: 55% Modacrylic, 30% Cotton, 18% Polyester, 2% Antistatic, 370 g/m²."
+#9066,ACCESSORY/CAP-HAT,"Main: 55% Protal, 44% Cotton, 1% Antistatic, PU laminated, 265 g/m². 
+Lining: 55% Modacrylic, 30% Cotton, 18% Polyester, 2% Antistatic, 370 g/m²."
+#9068,ACCESSORY/KNIT-CAP,"Main: 57% modacrylic, 36% cotton, 5% elastan, 2% Belltron™, 210 g/m2.
+Lining: 58% modacrylic FR, 35% cotton, 2% Belltron™, 5% elastan."
+#9069,ACCESSORY/CAP-HAT,"57% Modacrylic, 36% Cotton, 5% Elastan, 2% Belltron, 210g/m²."
+#9070,ACCESSORY/MASK,"31% polyester, 28% modacrylic, 20% Aramid Kermel®, 20% CV FR, 1% antistatic, 320   g/m2."
+#9071,ACCESSORY/BELT,100% Polyester.
+#9072,ACCESSORY/SUN-HAT,100% cotton.
+#9075,ACCESSORY/KNIT-CAP,"68% wool, 30% modacrylic FR, 2% Belltron™, 450 g/m2."
+#9076,ACCESSORY/CAP-HAT,"49% wool, 49% viscose, 2% Belltron™, 210 g/m2."
+#9079,ACCESSORY/CAP-HAT,"100% Cotton, 340 g/m²."
+#9082,UNKNOWN,"100% Cotton, 340 g/m²."
+#9084,ACCESSORY/KNIT-CAP,"Main: 100% Acrylic 
+Lining: 100% Polyester."
+#9091,ACCESSORY/CAP-HAT,"Colour 2000/ Main: 100% cotton, 230 g/m²."
+#9093,ACCESSORY/KNIT-CAP,"100% windproof 2-layer GORE WINDSTOPPER®, 30% Wool and 70% Acrylic."
+#9110,ACCESSORY/KNEEPAD,"50% EVA, 50% polyethylene."
+#9112,ACCESSORY/KNEEPAD,100% polyolefin polymer blend.
+#9116,ACCESSORY/KNEEPAD,Main: 100% EPDM rubber. Reinforcement: 100% CORDURA®
+#9118,ACCESSORY/KNEEPAD,"Shell: 85% polyamide, 15% polyester. Filling: Expanded polypropylene beads."
+#9119,ACCESSORY/KNEEPAD,100% polyolefin and 100% D3O® LITE.
+#9122,ACCESSORY/KNEEPAD,"50% EVA, 50% polyethylene."
+#9125,BAG/LARGE,85% Polyester 15% PVC
+#9153,JACKET,"100% Polyester, 130 g/m²."
+#9160,ACCESSORY/BELT,"42% modacrylic, 28% cotton, 30% Elastane"
+#9161,ACCESSORY/BELT,"70% polyester, 30% spandex.
+"
+#9169,ACCESSORY/KNEEPAD,100% polyurethane
+#9191,ACCESSORY/KNEEPAD,100% polyolefin and 100% D3O®.
+#9202,HOSIERY/SOCKS,"70% Wool, 6% Silk, 20% Polyamide, 4% Lycra."
+#9203,HOSIERY/SOCKS,"70% Wool, 6% Silk, 20% Polyamide, 4% Lycra."
+#9206,HOSIERY/SOCKS,"36% Polyamide, 19% Merino Wool, 19% Acrylic, 15% Polypropylene, 7% Cordura® and 4% Elastane."
+#9210,HOSIERY/SOCKS,"84% Merino Wool , 12% Elastane, 4% Polyamid."
+#9211,HOSIERY/SOCKS,"73% Cotton, 26% Polyamide, 1% Elastane."
+#9212,HOSIERY/SOCKS,"84% mulesing-free merino wool, 12% Lycra, 4% polyamide."
+#9213,HOSIERY/SOCKS,"34% Merino Wool, 34% Acrylic, 31% Polyamide, 1% Elastane."
+#9214,HOSIERY/SOCKS,"66% cotton, 33% polyamide, 1% elastane."
+#9215,HOSIERY/SOCKS,"37% Polyamide, 22% 37.5®, 20% Merino Wool, 20% Acrylic, 1% Elastane."
+#9216,HOSIERY/SOCKS,"34% merino wool, 34% acrylic, 31% polyamide, 1% elastane."
+#9217,HOSIERY/SOCKS," 40% Polyamide, 39% Polyester 37.5®, 19% Polypropylene and 2% Elastane.
+"
+#9218,HOSIERY/SOCKS,"44% Polyester 37.5®, 43% Polyamide, 11% Polypropylene and 2% Elastane."
+#9220,HOSIERY/SOCKS,"40% polyamide, 39% 37.5® polyester, 19% polypropylene, 2% elastane."
+#9221,HOSIERY/SOCKS,"64% cotton, 35% polyamide, 1% elastane"
+#9224,HOSIERY/SOCKS,"Main: 36% recycled cotton, 29% recycled polyester, 30% recycled polyamide, 4% elastane, 1% other fibre."
+#9225,HOSIERY/SOCKS,"Main: 60% merino wool, 38% polyamide, 2% elastane."
+#9226,HOSIERY/SOCKS,"36% recycled cotton, 34% recycled polyester, 24% recycled polyamide, 4% elastane, 2% other fibres."
+#9227,HOSIERY/SOCKS,"Main: 51% merino wool, 47% polyamide, 2% elastane"
+#9228,HOSIERY/SOCKS,"53% Merino Wool, 39% Polyamide, 8% Elastane"
+#9229,HOSIERY/SOCKS,"33% polyamide, 19% cotton, 19% polyester, 18% 37,5® polyester, 11% elastane.
+"
+#9240,HOSIERY/SOCKS," 44% 37.5®, 43% polyamide, 11% polypropylene, 2% elastane."
+#9241,HOSIERY/SOCKS,"66% cotton, 33% polyamide, 1% elastane."
+#9246,HOSIERY/SOCKS,"33% Polyamide, 19% Merino Wool, 19% Acrylic, 19% Polypropylene, 8% Cordura®, 2% Elastane"
+#9261,HOSIERY/SOCKS,"37% Wool, 37% Viscose FR, 20% Polyamide, 6% Lycra"
+#9262,HOSIERY/SOCKS,"52% wool, 34% viscose FR, 11% polyamide, 2% Belltron™, 1% elastane."
+#9263,HOSIERY/SOCKS,"52% wool, 34% viscose FR, 11% polyamide, 2% Belltron™, 1% elastane."
+#9264,HOSIERY/SOCKS,"44% wool, 44% viscose FR, 11% polyamide, 1% elastane."
+#9305,GLOVES,"50% Polyamide, 50% Nitrile."
+#9317,GLOVES,"36% Latex, 20% Acrylic, 20% hppe, 12% Polyamide, 10% Glass fibre, 2% Spandex."
+#9319,GLOVES,"53% Latex, 25% Acrylic, 22% Polyamide."
+#9321,GLOVES,"30% Polyamide, 70% Polyurethane."
+#9323,GLOVES,"40% WBPU/Nitrile Rubber, 40% Polyamide, 16% Polyester, 4% Spandex."
+#9325,GLOVES,"40% Acrylic, 40% PVC, 20% Polyamide."
+#9326,GLOVES,"40% HPPE, 31% Polyamide, 19% Polyurethane, 10% Glass fiber."
+#9327,GLOVES,"65% Nitrile, 25% Polyamide, 10% Polyurethane."
+#9330,GLOVES,"50% HPPE, 16% nylon, 9% spandex, 25% metal fibre.Dipping: 100% PU"
+#9360,GLOVES,"Palm: 100% Goatskin 350 g/m².
+Backing: 60% Modacrylic, 40% Cotton, 310 g/m² ."
+#9361,GLOVES,"Palm: 100% Goatskin 350 g/m², Thinsulate. Backing: 60% Modacrylic, 40% Cotton, 310 g/m2. Lining: Thinsulate 200 g/m²"
+#9389,GLOVES,"30% % Polyamide, 70% Polyurethane"
+#9390,GLOVES,50% Polyamide / 50% Nitrile 
+#9409,HOSIERY/LEGGINGS,"58% polyamide, 40% polyester 37.5®, 2% elastane, 200 g/m2."
+#9418,SHIRT,"58% polyamide, 42% polyester 37.5®, 165 g/m2."
+#9419,SHIRT,"58% polyamide, 42% polyester 37.5®, 165 g/m2."
+#9425,SHIRT,"62% polyamide, 36% polypropylene, 2% elastane, 214 g/m2."
+#9426,SHIRT,"62% polyamide, 36% polypropylene, 2% elastane, 214 g/m2."
+#9428,HOSIERY/LEGGINGS,"62% polyamide, 36% polypropylene, 2% elastane, 214 g/m2."
+#9429,PANTS/SHORTS,"58% Polyamide, 40% Polyester 37.5®, 2% Elastane.
+
+"
+#9435,SWEATER,"Main: 95% Polyester, 5% Elastan, 285 g/m². 
+Contrast: 100% Polyester, 120 g/m²."
+#9436,PANTS/SHORTS,"95% Cotton, 5% Elastane, 210 g/m²."
+#9438,JACKET,"Main: 95% Polyester, 5% Elastan, 285 g/m². 
+Contrast: 100% Polyester, 120 g/m²."
+#9441,SHIRT,"45% Merino Wool, 29% Polypropylene, 24% Polyester, 2% Elastane."
+#9442,HOSIERY/LEGGINGS,"45% Merino Wool, 29% Polypropylene, 24% Polyester, 2% Elastane.
+"
+#9443,HOSIERY/LEGGINGS,"Polartec® Power Stretch®: 84% recycled polyester, 16% elastane, 224 g/m2"
+#9444,SHIRT,"Material: 58% polyester, 21% cotton, 21% modal, 235 g/m2.
+"
+#9445,SHIRT,"Material: 55% polyester, 45% cotton.175 g/m² 
+
+"
+#9448,SWEATER,Main: 96% Polyester 4% Elastane. Weight: 198 gsm. Contrast: 90% Polyester 10% Elastane. Weight: 94 gsm.
+#9453,GLOVES,"75% Polyamid 25% Elastan, 265 g/m2"
+#9460,PANTS,"60% modacrylic FR, 38% cotton, 2% Belltron™, 230 g/m²."
+#9461,SHIRT,"60% modacrylic, 38% cotton, 2% Belltron™, 230 g/m²."
+#9462,SHIRT,"49% viscose FR, 49% wool, 2% Belltron™, 210 g/m²."
+#9463,UNDERWEAR/BOXERS,"57% modacrylic FR, 36% cotton, 5% elastan, 2% Belltron™, 210 g/m²."
+#9464,UNDERWEAR/BOXERS,"49% viscose FR, 49% wool, 2% Belltron™, 210 g/m²."
+#9465,UNDERWEAR/BRA,"57% modacrylic FR, 36% cotton, 5% elastan, 2% Belltron™, 210 g/m²."
+#9466,UNDERWEAR/PANTIES,"57% modacrylic FR, 36% cotton, 5% elastan, 2% Belltron™, 210 g/m²."
+#9467,UNDERWEAR/BOXERS,"57% modacrylic, 36% cotton, 5% elastan, 2% Belltron™, 210 g/m²."
+#9468,PANTS,"49% viscose FR, 49% wool, 2% Belltron™, 210 g/m²."
+#9469,PANTS,"68% wool, 30% modacrylic FR, 2% Belltron™, 370 g/m²."
+#9476,SHIRT,"49% viscose FR, 49% wool, 2% Belltron™, 210 g/m2."
+#9480,TSHIRT/LONG-SLEEVE,"55% Merino Wool, 36% Polyester, 9% Poyamide, 230 g/m2."
+#9481,HOSIERY/LEGGINGS,"55% Merino Wool, 36% Polyester, 9% Poyamide, 230 g/m2.
+"
+#9483,TSHIRT/LONG-SLEEVE,X% Polyamide; X% Wool;  X% Elastane Xg/m2.
+#9484,HOSIERY/LEGGINGS,X% Polyamide; X% Wool;  X% Elastane Xg/m2. 
+#9485,TSHIRT/LONG-SLEEVE,"53% solution dyed recycled polyester, 43% polyester with bamboo charcoal, 4% elastane, 250 g/m2."
+#9486,HOSIERY/LEGGINGS,"53% solution dyed recycled polyester, 43% polyester with bamboo charcoal, 4% elastane, 250 g/m2.
+"
+#9491,TSHIRT/LONG-SLEEVE,"X% polyamide, X% polypropylene, X% elastane, X g/m2."
+#9492,HOSIERY/LEGGINGS,"X% polyamide, X% polypropylene, X% elastane, X g/m2."
+#9566,GLOVES,"100% full-grain leather, 0.8-1.0 mm thick."
+#9574,GLOVES,"66% Polyamide, 17% Polyester, 8% Rubber, 5% Polyurethane, 4% Cotton."
+#9578,GLOVES,"45% Polyamide, 30% Polyester, 22% Polyurethane, 3% Reflective yarn."
+#9579,GLOVES,"35% Polyamide, 27% Polyester, 20% Polyurethane, 8% Rubber, 5% Reflective yarn, 5% Polyethylene."
+#9585,GLOVES,"Polyamide 50%, Polyurethane 40%, Polyester 3%, PVC 5%, Silicon 2%."
+#9586,GLOVES,"50% Polyamide, 40% Polyurethane, 3% Polyester, 5% PVC, 2% Silicon."
+#9597,GLOVES,"62% Polyamide, 16% Polyester, 14% Polyurethane, 8% Rubber."
+#9598,GLOVES,"62% Polyamide, 16% Polyester, 14% Polyurethane, 8% Rubber."
+#9623,BAG/MEDIUM,100% ripstop polyamide
+#9626,BAG/MEDIUM,100% ripstop polyamide
+#9700,UNKNOWN,100% ripstop polyamide
+#9716,UNKNOWN,100% ripstop polyamide
+#9736,UNKNOWN,100% ripstop polyamide
+#9746,ACCESSORY/PHONE-CASE,100% thermoplastic polyurethane.
+#9751,ACCESSORY/KEYCHAIN,100% leather
+#9754,ACCESSORY/WALLET,100% leather
+#9757,PANTS,"39% Modacrylic, 28% CORDURA®, 17% Cotton, 15% Aramid, 1% Antistatic, 270 g/m²."
+#9759,ACCESSORY/WALLET,"100% ABS plastic, Polyester string."
+#9760,ACCESSORY/WALLET,"100% PVC, conforms to EN 15777"
+#9762,UNKNOWN,"100% PVC, conforms to EN 15777"
+#9764,ACCESSORY/PHONE-CASE,100% Polyamide.
+#9766,ACCESSORY/WALLET,100% PVC.
+#9767,ACCESSORY/PHONE-CASE,100% leather
+#9768,ACCESSORY/PHONE-CASE,100% leather
+#9769,ACCESSORY/PHONE-CASE,100% leather
+#9770,ACCESSORY/BELT,"100% Nylon, 100% CORDURA®-Polyamide.
+Leather pouches."
+#9772,ACCESSORY/BELT,"100% Nylon,100% Polyamide. "
+#9775,ACCESSORY/PHONE-CASE,100% Leather.
+#9776,ACCESSORY/PHONE-CASE,100% Polyamide.
+#9779,PANTS,"31% polyester, 28% modacrylic, 20% Aramid Kermel®, 20% CV FR, 1% antistatic, 320 g/m2. "
+#9780,ACCESSORY/BELT,"100% Nylon, 100% CORDURA®-Polyamide. Leather pouches."
+#9782,ACCESSORY/BELT,"Belt in 100% Nylon, Pouches 100% Polyamide."
+#9783,PANTS,"Main: 49% Modacrylic FR, 42% Cotton, 5% Aramid, 3% Polyamide, 1% Antistatic, 300g/m²
+Reinforcement: 54% Polyester 24% Aramide, 13% Polyamide, 9% Polyurethane, 450 g/m²."
+#9785,ACCESSORY/PHONE-CASE,100% Leather.
+#9786,ACCESSORY/PHONE-CASE,100% Polyamide.
+#9787,PANTS,"Main: 49% modacrylic FR, 42% cotton, 5% aramid, 3% polyamide, 1% antistatic, 300 g/m2.
+Reinforcement: 54% polyester 24% aramide, 13% polyamide, 9% polyurethane, 450 g/m2.
+"
+#9790,ACCESSORY/BELT,"100% Nylon, 100% CORDURA®-Polyamide."
+#9792,ACCESSORY/BELT,100% Nylon.
+#9793,PANTS,"49% Modacrylic FR, 42% Cotton, 5% Aramid, 3% Polyamide, 1% Antistatic, 300g/m²."
+#9794,PANTS,100% CORDURA®-Polyamide 300 g/m².
+#9795,ACCESSORY/PHONE-CASE,100% Leather.
+#9796,ACCESSORY/PHONE-CASE,100% Polyamide.
+#9797,PANTS,"49% modacrylic FR, 42% cotton, 5% aramid, 3% polyamide, 1% antistatic, 300 g/m2."
+#9798,ACCESSORY/PHONE-CASE,100% polyamide
