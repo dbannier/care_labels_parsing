@@ -1,5 +1,5 @@
 # Care labels parsing project
-Repository containing data for care labels and python code for processing it and transforming it into a json structured format.
+Repository containing data for care labels and python code for processing it and transforming it into a json structured format, based on Pydantic models.
 
 ## Prerequisites
 
@@ -17,8 +17,8 @@ To run the code with your own file, store the file in the data/raw directory and
 * data
   * raw : contains the raw data file
   * processed : contains the results files
+    * products_database.json : the processed file re-structured in json format, based on Pydantic.
     * final_care_label.csv : the processed file in csv format.
-    * products_database.json : the processed file re-structured in json format.
     * to_review.xlsx : specific items that may need special attention as they have remaining text after being processed.
 * notebook
   * investigation_nb : jupyter notebook with a brief analysis of the care labels data.
