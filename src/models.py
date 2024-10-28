@@ -12,8 +12,9 @@ class Color(BaseModel):
     color: Optional[str] = None
 
 class Component(BaseModel):
-    component: str 
-    updated_care_label: str 
+    component_name: str 
+    composition: dict
+    additional_details: Optional[str] = None
     weight: Optional[float] = None
 
 class ProductDetails(BaseModel):

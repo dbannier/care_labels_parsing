@@ -1,13 +1,30 @@
 # File containing functions to process care_label file
 
 import json
+import logging
 import re
+import sys
 
 import pandas as pd
 from nltk.corpus import stopwords
 from pydantic import BaseModel, ValidationError
 
-from src.models import Category, Color, Component, ProductDetails
+from models import Category, Color, Component, ProductDetails
+
+
+
+# Constants 
+# ways of writing gram per square meter - to replace by "gsm"
+all_gsm = [ 
+    "g/m2",
+    "g/m²",
+    "gm²",
+    " gram.",
+    " gram ",
+    "gr ",
+    "gr.",
+    " g ",
+]
 
 
 def strip_and_trim_punctuation(description_series: pd.Series) -> pd.Series:
@@ -70,7 +87,8 @@ def replace_words(description_series: pd.Series, list_to_replace: list[str], rep
     - pd.Series: The modified Series with specified replacements applied.
     """
     for word in list_to_replace:
-        description_series = description_series.replace(word, replacement_word, regex=True)
+        pattern = r'\b' + re.escape(word) + r'\b'
+        description_series = description_series.replace(pattern, replacement_word, regex=True)
     description_series = strip_and_trim_punctuation(description_series)
     return description_series.str.strip()
 
@@ -155,6 +173,7 @@ def split_components(df: pd.DataFrame,description_column: str):
     The function searches for components defined in the format "Component Name: Composition" 
     within the 'updated_care_label' column value. If no components are found, it assigns
     the component name "main".
+    The extracted information is removed from the input column of the dataframe.
     Parameters : 
     - df : pandas.DataFrame
     - description_column: the column to update
@@ -187,6 +206,7 @@ def split_components(df: pd.DataFrame,description_column: str):
 def get_weight(df: pd.DataFrame,description_column: str) -> pd.DataFrame:
     """
     Function extracting weight information using 'gsm' to spot its location.
+    The extracted information is removed from the input column of the dataframe.
     Parameters : 
     - df : pandas.DataFrame
     - description_column: the column to update
@@ -203,7 +223,34 @@ def get_weight(df: pd.DataFrame,description_column: str) -> pd.DataFrame:
     df_copy[description_column] = strip_and_trim_punctuation(df_copy[description_column])
     return df_copy
 
-def dataframe_to_pydantic(df: pd.DataFrame, model: BaseModel):
+
+def parse_composition(composition_text:str)-> (str,dict):
+    """
+    Function separating the material name and its percentage.
+    This only works well if the percentage is given before the material name.
+    The extracted information is removed from the input column of the dataframe.
+    Ex : 50% cotton, 10% polyamide -> {cotton : 50, polyamide : 10}
+    Parameters : 
+     - composition_text : string containing the percentage of a given specified material
+    Returns : 
+    - the input string cleaned from the extracted information
+    - the disctionary containing the percentage for each material
+    """
+    # Regex to capture percentage and material pairs
+    pattern = r'(\d+(?:[.,]\d+)?)\s*%\s*([^%]*?)(?=\d+(?:[.,]\d+)?\s*%|$)'
+
+    # Find all matches in the composition text
+    matches = re.findall(pattern, composition_text)
+    
+    # Convert matches to a dictionary: {material: percentage}
+    composition_dict = {material.strip(): float(percentage.replace(',','.')) if percentage else None for percentage, material in matches}
+    
+    # Remove matched text from description
+    cleaned_text = re.sub(pattern, '', composition_text).strip()
+    return cleaned_text, composition_dict
+
+
+def dataframe_to_pydantic(df: pd.DataFrame, model: BaseModel)->list:
     """
     Convert a pandas DataFrame to a list of Pydantic models.
     
@@ -225,8 +272,9 @@ def dataframe_to_pydantic(df: pd.DataFrame, model: BaseModel):
                 ),
                 color=Color(color=row.get('color')),  # This will be None if color is missing
                 component=Component(
-                    component=row.get('component'),
-                    updated_care_label=row.get('updated_care_label'),
+                    component_name=row.get('component'),
+                    composition=row.get('composition_dict'),
+                    additional_details=row.get('remaining_text'),
                     weight=row.get('weight')
                 )
             )
@@ -247,3 +295,98 @@ def pydanticlist_to_json(pydanticlist: list, file_name: str) -> None:
     # Save to a JSON file
     with open(f'{file_name}.json', 'w') as json_file:
         json.dump(items_json, json_file, indent=4)
+
+
+def parsing_and_structuring_pipeline(input_file : str):
+    """main function"""
+    # Set logging
+    logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+    # Read file
+    logging.info(f"Reading file from {input_file}")
+    label_file = pd.read_csv(input_file)
+
+    #### Preprocessing ####
+    logging.info("Preprocessing file...")
+    # Lower dataframe
+    clean_label_file = lower_dataframe(label_file)
+
+    # Split categories to get main category and subcategory field
+    clean_label_file[['product_main_category','product_sub_category']]= clean_label_file.product_category.str.split('/',expand= True)
+
+    # Replace "and" by commas
+    clean_label_file["updated_care_label"] = replace_and_comma(clean_label_file.care_label)
+
+    # Remove english stopwords
+    clean_label_file.updated_care_label = remove_english_stopwords(clean_label_file.updated_care_label)
+
+    # Remove escape characters
+    clean_label_file.updated_care_label = remove_escape_characters(clean_label_file.updated_care_label)
+
+    # Remove symbols
+    clean_label_file.updated_care_label = remove_symbols(clean_label_file.updated_care_label)
+
+    # Standardize unit of measure 
+    clean_label_file.updated_care_label = replace_words(clean_label_file.updated_care_label,all_gsm, "gsm")
+
+
+    #### Parsing ####
+    logging.info("Parsing file...")
+    # Color parsing
+    clean_label_file_colors = split_colors(
+        clean_label_file,
+        "updated_care_label",
+    )
+
+    ##Create one row per component of each item
+    clean_label_file_item = split_sentence(
+        clean_label_file_colors,
+        "updated_care_label",
+    )
+
+    # Extract component name 
+    clean_label_file_component = split_components(
+        clean_label_file_item,
+        "updated_care_label",
+    )
+
+    # Extract weight information from the updated care label column
+    clean_label_file_weight = get_weight(
+        clean_label_file_component,
+        "updated_care_label",
+    )
+
+    # Extract composition details  
+    clean_label_file_weight[['remaining_text', 'composition_dict']] = clean_label_file_weight['updated_care_label'].apply(
+        lambda x: pd.Series(parse_composition(x))
+    )
+
+    # Clean remaining text 
+    clean_label_file_weight['remaining_text'] = remove_commas(
+        clean_label_file_weight['remaining_text']
+    )
+    clean_label_file_weight['remaining_text'] = strip_and_trim_punctuation(
+        clean_label_file_weight['remaining_text']
+    )
+
+    # Set weight data type
+    clean_label_file_weight.weight=clean_label_file_weight.weight.astype(float)
+
+    logging.info("Saving results file...")
+    # Products with remaining text may need special attention 
+    clean_label_file_weight[clean_label_file_weight['remaining_text']!=''].to_excel('data/processed/to_review.xlsx')
+
+    # Transform dtaframe to structured json and save results
+    clean_label_file_weight.to_csv("data/processed/final_care_label.csv")
+    products = dataframe_to_pydantic(clean_label_file_weight, ProductDetails)
+    pydanticlist_to_json(products,"data/processed/products_database")
+
+    logging.info("Done ! ")
+
+if __name__ == "__main__":
+    if len(sys.argv) != 2:
+        print("Input file missing ! Usage: python script.py <input_file>")
+        sys.exit(1)
+    
+    input_file = sys.argv[1]
+    parsing_and_structuring_pipeline(input_file)

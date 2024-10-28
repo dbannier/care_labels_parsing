@@ -3,18 +3,24 @@ Repository containing data for care labels and python code for processing it and
 
 ## Prerequisites
 
-Create a venv or conda environment prior to installing the requirements, running : 
+Create a venv or conda environment prior to installing the requirements, running :
 
-`pip install -r requirements.txt``
+`pip install -r requirements.txt`
+
+To run the code with your own file, store the file in the data/raw directory and run :
+`python src/process_labels.py data/raw/{file}.csv`
 
 ## Repo architecture and files description:
 
 * data
-  * raw : contans the raw data file 
-  * processed : contains the results files 
-* notebook 
+  * raw : contains the raw data file
+  * processed : contains the results files
+    * final_care_label.csv : the processed file in csv format.
+    * products_database.json : the processed file re-structured in json format.
+    * to_review.xlsx : specific items that may need special attention as they have remaining text after being processed.
+* notebook
   * investigation_nb : jupyter notebook with a brief analysis of the care labels data.
-  * process_labels_nb : jupyter notebook executing the src functions and displays results step by step. 
+  * process_labels_nb : jupyter notebook processing the file step by step for demo purposes.
 * src
   * process_labels : python file with all the processing functions.
   * models: python file containing the pydantic models.
