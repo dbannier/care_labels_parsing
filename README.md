@@ -7,8 +7,10 @@ Create a venv or conda environment prior to installing the requirements, running
 
 `pip install -r requirements.txt`
 
+
 To run the code with your own file, store the file in the data/raw directory and run :
 `python src/process_labels.py data/raw/{file}.csv`
+
 
 ## Repo architecture and files description:
 
