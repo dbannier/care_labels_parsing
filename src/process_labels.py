@@ -12,7 +12,6 @@ from pydantic import BaseModel, ValidationError
 from models import Category, Color, Component, ProductDetails
 
 
-
 # Constants 
 # ways of writing gram per square meter - to replace by "gsm"
 all_gsm = [ 
@@ -76,11 +75,11 @@ def remove_symbols(description_series: pd.Series):
 
 def replace_words(description_series: pd.Series, list_to_replace: list[str], replacement_word: str) -> pd.Series:
     """
-    Replace each word or phrase in `list_to_replace` with `replacement_word` in a given Series.
+    Replace each word in `list_to_replace` with `replacement_word` in a given Series.
 
     Parameters:
     - description_series (pd.Series): The Series to perform replacements on.
-    - list_to_replace (list[str]): A list of words or phrases to replace.
+    - list_to_replace (list[str]): A list of words to replace.
     - replacement_word (str): The word to use as the replacement.
 
     Returns:
@@ -96,7 +95,8 @@ def replace_words(description_series: pd.Series, list_to_replace: list[str], rep
 def split_colors(df: pd.DataFrame, description_column:str) -> pd.DataFrame:
     """
     Function creating a new row for each different composition of an article based on its color. 
-    A color column includes the color information for the given row.
+    A color column includes the color information for the given row with an identifier of a color
+    (e.g "col", "colour") followed by one or multiple color ids made up of 4 digits.
     Parameters: 
     - df: dataframe input
     - description_column: column name to transform
@@ -178,7 +178,7 @@ def split_components(df: pd.DataFrame,description_column: str):
     - df : pandas.DataFrame
     - description_column: the column to update
     Returns: pandas.DataFrame with a new column 'component' containing the name of the component
-    extracted from the 'updatedcare_label' (or "main" if none found).
+    extracted from the 'updated_care_label' (or "main" if none found).
     """
     # Regex defining the component name and its composition :
     # - words before a colon
@@ -210,7 +210,7 @@ def get_weight(df: pd.DataFrame,description_column: str) -> pd.DataFrame:
     Parameters : 
     - df : pandas.DataFrame
     - description_column: the column to update
-    Returns : the dataframe with a new column containing the weight information in g/m2.
+    Returns : the dataframe with a new column containing the weight information in g/m2 (gsm).
     """
     # Make a copy of the DataFrame to avoid modifying the original
     df_copy = df.copy()
@@ -227,7 +227,7 @@ def get_weight(df: pd.DataFrame,description_column: str) -> pd.DataFrame:
 def parse_composition(composition_text:str)-> (str,dict):
     """
     Function separating the material name and its percentage.
-    This only works well if the percentage is given before the material name.
+    N.B : This only works well if the percentage is given before the material name.
     The extracted information is removed from the input column of the dataframe.
     Ex : 50% cotton, 10% polyamide -> {cotton : 50, polyamide : 10}
     Parameters : 
