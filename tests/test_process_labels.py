@@ -323,7 +323,7 @@ def test_pydanticlist_to_json():
     ]
 
     # Convert the list of Pydantic models to JSON and save to a file
-    pydanticlist_to_json(sample_data, "test_output")
+    pydanticlist_to_json(sample_data, "tests/test_output")
 
     # Load the JSON file and check its content
     with open("test_output.json", "r") as json_file:
