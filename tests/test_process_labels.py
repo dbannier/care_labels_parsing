@@ -45,7 +45,6 @@ def test_remove_symbols():
 
 
 def test_replace_words():
-    # make sure to match words stick to numbers
     data = pd.Series(["This is a test sentence.", "Another 9test case.", "No match here."])
     list_to_replace = ["test", "case"]
     replacement_word = "example"
@@ -55,8 +54,6 @@ def test_replace_words():
 
 
 def test_split_colors():
-    ###### WIP
-    # make sure to replace and by commas in color column
     data = pd.DataFrame({
         "description": [
             "colour 1234 and 5678: This is a product with information. colors 1234 other info",
@@ -100,10 +97,8 @@ def test_split_sentence():
     pd.testing.assert_frame_equal(result, expected)
 
 def test_split_components():
-    # There should be only one component per row. 
+    # There should be only one component per row.
     # data has been lowered already
-    #### to improve
-    # Sample data
 
     data = {
         "updated_care_label": [
@@ -188,8 +183,6 @@ def test_parse_composition():
     - material containing comma and hyphen
 
     """
-    #####need to clean end punctuation of materials 
-
     # Test cases
     test_cases = [
         ("50% cotton, 10% polyamide", ("", {"cotton,": 50.0, "polyamide": 10.0})),
