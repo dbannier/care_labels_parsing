@@ -9,7 +9,12 @@ Create a venv or conda environment prior to installing the requirements, running
 
 
 To run the code with your own file, store the file in the data/raw directory and run :
+`export PYTHONPATH="${PYTHONPATH}:src/"`
 `python src/process_labels.py data/raw/{file}.csv`
+
+To test with the loaded file, run:
+`export PYTHONPATH="${PYTHONPATH}:src/"`
+`python src/process_labels.py data/raw/care_labels.csv`
 
 
 ## Repo architecture and files description:
@@ -26,3 +31,4 @@ To run the code with your own file, store the file in the data/raw directory and
 * src
   * process_labels : python file with all the processing functions.
   * models: python file containing the pydantic models.
+* tests : contains unit test functions. It can be tested by installing pytest and running `pytest` from the terminal.
