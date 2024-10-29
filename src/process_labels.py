@@ -21,10 +21,10 @@ ALL_GSM = [
     "gm²",
     "gm2",
     " gram.",
-    " gram ",
-    "gr ",
+    " gram",
+    "gr",
     "gr.",
-    " g ",
+    " g",
 ]
 
 PUNCTUATION = ".,;:!?"
