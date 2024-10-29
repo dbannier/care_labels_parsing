@@ -26,4 +26,4 @@ To run the code with your own file, store the file in the data/raw directory and
 * src
   * process_labels : python file with all the processing functions.
   * models: python file containing the pydantic models.
-* tests : contains unit test functions. It can be tested by installing pylint and running `pylint /src`
+* tests : contains unit test functions. It can be tested by installing pytest and running `pytest` from the terminal.

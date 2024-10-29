@@ -106,31 +106,31 @@ def test_split_components():
     # Sample data
 
     data = {
-        'updated_care_label': [
-            'body: 10% cotton 90% polyester.',
-            '100% wool',
-            'lining: 50% silk 50% cotton'
+        "updated_care_label": [
+            "body: 10% cotton 90% polyester.",
+            "100% wool",
+            "lining: 50% silk 50% cotton"
         ]
     }
     df = pd.DataFrame(data)
 
     # Expected output
     expected_data = {
-        'updated_care_label': [
-            '10% cotton 90% polyester',
-            '100% wool',
-            '50% silk 50% cotton',
+        "updated_care_label": [
+            "10% cotton 90% polyester",
+            "100% wool",
+            "50% silk 50% cotton",
         ],
-        'component': [
-            'body',
-            'main',
-            'lining',
+        "component": [
+            "body",
+            "main",
+            "lining",
         ]
     }
     expected_df = pd.DataFrame(expected_data)
 
     # Run the function
-    result_df = split_components(df, 'updated_care_label')
+    result_df = split_components(df, "updated_care_label")
     # Check if the result matches the expected output
     pd.testing.assert_frame_equal(result_df, expected_df)
 
@@ -145,34 +145,34 @@ def test_get_weight():
     """
     # Sample data
     data = {
-        'updated_care_label': [
-            'fabric: 200 gsm',
-            'material 150gsm',
-            'weight: 300, gsm',
-            'no weight info'
+        "updated_care_label": [
+            "fabric: 200 gsm",
+            "material 150gsm",
+            "weight: 300, gsm",
+            "no weight info"
         ]
     }
     df = pd.DataFrame(data)
 
     # Expected output
     expected_data = {
-        'updated_care_label': [
-            'fabric',
-            'material',
-            'weight',
-            'no weight info'
+        "updated_care_label": [
+            "fabric",
+            "material",
+            "weight",
+            "no weight info"
         ],
-        'weight': [
-            '200',
-            '150',
-            '300',
+        "weight": [
+            "200",
+            "150",
+            "300",
             None
         ]
     }
     expected_df = pd.DataFrame(expected_data)
 
     # Run the function
-    result_df = get_weight(df, 'updated_care_label')
+    result_df = get_weight(df, "updated_care_label")
 
     # Check if the result matches the expected output
     pd.testing.assert_frame_equal(result_df, expected_df)
@@ -211,14 +211,14 @@ def test_dataframe_to_pydantic():
     """
     # Sample data for the DataFrame
     data = {
-        'product_id': ["#1", "#2"],
-        'product_main_category': ['Clothing', 'Accessories'],
-        'product_sub_category': ['Shirts', None],
-        'color': ['0000', None],
-        'component': ['Body', 'Main'],
-        'composition_dict': [{'cotton': 50.0, 'polyamide': 10.0}, {'wool': 100.0}],
-        'remaining_text': ['Some details', ''],
-        'weight': [200.0, 0]
+        "product_id": ["#1", "#2"],
+        "product_main_category": ["Clothing", "Accessories"],
+        "product_sub_category": ["Shirts", None],
+        "color": ["0000", None],
+        "component": ["Body", "Main"],
+        "composition_dict": [{"cotton": 50.0, "polyamide": 10.0}, {"wool": 100.0}],
+        "remaining_text": ["Some details", ""],
+        "weight": [200.0, 0]
     }
     
     df = pd.DataFrame(data)
@@ -226,24 +226,24 @@ def test_dataframe_to_pydantic():
     # Expected output
     expected_output = [
         ProductDetails(
-            product_id='#1',
-            category=Category(product_main_category='Clothing', product_sub_category='Shirts'),
-            color=Color(color='0000'),
+            product_id="#1",
+            category=Category(product_main_category="Clothing", product_sub_category="Shirts"),
+            color=Color(color="0000"),
             component=Component(
-                component_name='Body',
-                composition={'cotton': 50.0, 'polyamide': 10.0},
-                additional_details='Some details',
+                component_name="Body",
+                composition={"cotton": 50.0, "polyamide": 10.0},
+                additional_details="Some details",
                 weight=200.0
             )
         ),
         ProductDetails(
-            product_id='#2',
-            category=Category(product_main_category='Accessories', product_sub_category=None),
+            product_id="#2",
+            category=Category(product_main_category="Accessories", product_sub_category=None),
             color=Color(color=None),
             component=Component(
-                component_name='Main',
-                composition={'wool': 100.0},
-                additional_details='',
+                component_name="Main",
+                composition={"wool": 100.0},
+                additional_details="",
                 weight=0
             )
         )
@@ -260,24 +260,24 @@ def test_pydanticlist_to_json():
     # Sample data for the Pydantic models
     sample_data = [
         ProductDetails(
-            product_id='#1',
-            category=Category(product_main_category='Clothing', product_sub_category='Shirts'),
-            color=Color(color='0000'),
+            product_id="#1",
+            category=Category(product_main_category="Clothing", product_sub_category="Shirts"),
+            color=Color(color="0000"),
             component=Component(
-                component_name='Body',
-                composition={'cotton': 50.0, 'polyamide': 10.0},
-                additional_details='Some details',
+                component_name="Body",
+                composition={"cotton": 50.0, "polyamide": 10.0},
+                additional_details="Some details",
                 weight=200.0
             )
         ),
         ProductDetails(
-            product_id='#2',
-            category=Category(product_main_category='Accessories', product_sub_category='Hats'),
-            color=Color(color='Blue'),
+            product_id="#2",
+            category=Category(product_main_category="Accessories", product_sub_category="Hats"),
+            color=Color(color="Blue"),
             component=Component(
-                component_name='Main',
-                composition={'wool': 100.0},
-                additional_details='Other details',
+                component_name="Main",
+                composition={"wool": 100.0},
+                additional_details="Other details",
                 weight=150.0
             )
         )
