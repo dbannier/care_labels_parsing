@@ -234,10 +234,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyamide, 220 gm2": 100.0
+                "polyamide": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 220.0
         }
     },
     {
@@ -363,10 +363,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyamide, 220 gm2": 100.0
+                "polyamide": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 220.0
         }
     },
     {
@@ -581,10 +581,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyamide, 220 gm2": 100.0
+                "polyamide": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 220.0
         }
     },
     {
@@ -888,10 +888,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyamide, 220 gm2": 100.0
+                "polyamide": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 220.0
         }
     },
     {
@@ -1663,10 +1663,10 @@
                 "modacrylic,": 28.0,
                 "aramid kermel,": 20.0,
                 "cv fr,": 20.0,
-                "antistatic, 320 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 320.0
         }
     },
     {
@@ -1722,10 +1722,10 @@
             "composition": {
                 "protal,": 55.0,
                 "cotton,": 44.0,
-                "antistatic, pu laminated, 265 gm2": 1.0
+                "antistatic, pu laminated": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 265.0
         }
     },
     {
@@ -1743,10 +1743,10 @@
                 "modacrylin fr,": 40.0,
                 "viscose fr,": 37.0,
                 "regenerated viscose,": 22.0,
-                "antistatic, 180 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 180.0
         }
     },
     {
@@ -1761,10 +1761,10 @@
         "component": {
             "component_name": "padding",
             "composition": {
-                "polyester, 120 gm2": 100.0
+                "polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 120.0
         }
     },
     {
@@ -1905,10 +1905,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 88.0,
-                "elastane, 218 gm2": 12.0
+                "elastane": 12.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 218.0
         }
     },
     {
@@ -1959,10 +1959,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyester 265gm\u00b2": 100.0
+                "polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 265.0
         }
     },
     {
@@ -2032,10 +2032,10 @@
         "component": {
             "component_name": "main fabric",
             "composition": {
-                "polyester 265gm\u00b2": 100.0
+                "polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 265.0
         }
     },
     {
@@ -2105,10 +2105,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 88.0,
-                "elastane, 218 gm2": 12.0
+                "elastane": 12.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 218.0
         }
     },
     {
@@ -2125,10 +2125,10 @@
             "composition": {
                 "protal,": 55.0,
                 "cotton,": 44.0,
-                "antistatic  pu laminated, 405 gm2": 1.0
+                "antistatic  pu laminated": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 405.0
         }
     },
     {
@@ -2143,10 +2143,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyamide, 150gm\u00b2": 100.0
+                "polyamide": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 150.0
         }
     },
     {
@@ -2161,10 +2161,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "polyamide cordura, 305gm\u00b2": 100.0
+                "polyamide cordura": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 305.0
         }
     },
     {
@@ -2251,10 +2251,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyester, 137gm\u00b2": 100.0
+                "polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 137.0
         }
     },
     {
@@ -2341,10 +2341,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyester, 137gm\u00b2": 100.0
+                "polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 137.0
         }
     },
     {
@@ -2528,10 +2528,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 61.0,
-                "sorona polyester, 260 gm2": 39.0
+                "sorona polyester": 39.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 260.0
         }
     },
     {
@@ -2686,10 +2686,10 @@
                 "cotton,": 42.0,
                 "aramid,": 5.0,
                 "polyamide,": 3.0,
-                "antistatic, 300gm\u00b2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 300.0
         }
     },
     {
@@ -2727,10 +2727,10 @@
                 "modacrylic,": 28.0,
                 "aramid kermel,": 20.0,
                 "cv fr,": 20.0,
-                "antistatic, 320 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 320.0
         }
     },
     {
@@ -2769,10 +2769,10 @@
                 "cotton,": 42.0,
                 "aramid,": 5.0,
                 "polyamide,": 3.0,
-                "antistatic, 300 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 300.0
         }
     },
     {
@@ -2788,10 +2788,10 @@
             "component_name": "lining",
             "composition": {
                 "meta-aramid,": 50.0,
-                "viscose fr, 120 gm2": 50.0
+                "viscose fr": 50.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 120.0
         }
     },
     {
@@ -2810,10 +2810,10 @@
                 "cotton,": 42.0,
                 "aramid,": 5.0,
                 "polyamide,": 3.0,
-                "antistatic, 300gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 300.0
         }
     },
     {
@@ -2829,10 +2829,10 @@
             "component_name": "lining",
             "composition": {
                 "meta-aramid,": 50.0,
-                "viscose fr, 120 gm2": 50.0
+                "viscose fr": 50.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 120.0
         }
     },
     {
@@ -2946,10 +2946,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 65.0,
-                "cotton, 260gm2": 35.0
+                "cotton": 35.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 260.0
         }
     },
     {
@@ -2964,10 +2964,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyamide, 220 gm2": 100.0
+                "polyamide": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 220.0
         }
     },
     {
@@ -3631,10 +3631,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyamide, 69 gm2": 100.0
+                "polyamide": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 69.0
         }
     },
     {
@@ -3650,10 +3650,10 @@
             "component_name": "reinforcement",
             "composition": {
                 "polyamide cordura,": 88.0,
-                "elastane, 275 gm2": 12.0
+                "elastane": 12.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 275.0
         }
     },
     {
@@ -3669,10 +3669,10 @@
             "component_name": "stretch",
             "composition": {
                 "nylon,": 84.0,
-                "elastane, 193 gm2": 16.0
+                "elastane": 16.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 193.0
         }
     },
     {
@@ -3688,10 +3688,10 @@
             "component_name": "lining",
             "composition": {
                 "polyester,": 90.0,
-                "elastane, 98 gm2": 10.0
+                "elastane": 10.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 98.0
         }
     },
     {
@@ -3951,10 +3951,10 @@
             "component_name": "contrast",
             "composition": {
                 "polyamide cordura,": 88.0,
-                "elastane, 270gm\u00b2": 12.0
+                "elastane": 12.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -4006,10 +4006,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 91.0,
-                "elastane 190 gm2": 9.0
+                "elastane": 9.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 190.0
         }
     },
     {
@@ -4160,10 +4160,10 @@
             "composition": {
                 "modacrylic,": 60.0,
                 "cotton,": 38.0,
-                "belltron, 215 gm2": 2.0
+                "belltron": 2.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 215.0
         }
     },
     {
@@ -4198,10 +4198,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "cotton, 160 gm2": 100.0
+                "cotton": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 160.0
         }
     },
     {
@@ -4217,10 +4217,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 95.0,
-                "viscose, 160 gm2": 5.0
+                "viscose": 5.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 160.0
         }
     },
     {
@@ -4235,10 +4235,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "cotton, 160 gm2": 100.0
+                "cotton": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 160.0
         }
     },
     {
@@ -4346,10 +4346,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 91.0,
-                "elastane 190 gm2": 9.0
+                "elastane": 9.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 190.0
         }
     },
     {
@@ -4364,10 +4364,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "cotton, 160 gm2": 100.0
+                "cotton": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 160.0
         }
     },
     {
@@ -4383,10 +4383,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 95.0,
-                "viscose, 160 gm2": 5.0
+                "viscose": 5.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 160.0
         }
     },
     {
@@ -4510,10 +4510,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "mulesing-free merino wool calender finish, 160 gm2": 100.0
+                "mulesing-free merino wool calender finish": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 160.0
         }
     },
     {
@@ -4529,10 +4529,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 95.0,
-                "elastane, 180 gm2": 5.0
+                "elastane": 5.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 180.0
         }
     },
     {
@@ -4566,10 +4566,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 50.0,
-                "cotton, 190 gm2": 50.0
+                "cotton": 50.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 190.0
         }
     },
     {
@@ -4603,10 +4603,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 50.0,
-                "cotton, 190 gm2": 50.0
+                "cotton": 50.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 190.0
         }
     },
     {
@@ -4622,10 +4622,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 50.0,
-                "polyester, 190 gm2": 50.0
+                "polyester": 50.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 190.0
         }
     },
     {
@@ -4678,10 +4678,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "cotton, 160 gm2": 100.0
+                "cotton": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 160.0
         }
     },
     {
@@ -4775,10 +4775,10 @@
             "component_name": "main fabric",
             "composition": {
                 "polyester,": 50.0,
-                "cotton, 190 gm2": 50.0
+                "cotton": 50.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 190.0
         }
     },
     {
@@ -4867,10 +4867,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "cotton, 200 gm2": 100.0
+                "cotton": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 200.0
         }
     },
     {
@@ -4886,10 +4886,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 95.0,
-                "viscose 200 gm2": 5.0
+                "viscose": 5.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 200.0
         }
     },
     {
@@ -4905,10 +4905,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 65.0,
-                "cotton, 200 gm2": 35.0
+                "cotton": 35.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 200.0
         }
     },
     {
@@ -4923,10 +4923,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "cotton, 200 gm2": 100.0
+                "cotton": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 200.0
         }
     },
     {
@@ -4942,10 +4942,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 95.0,
-                "viscose 200 gm2": 5.0
+                "viscose": 5.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 200.0
         }
     },
     {
@@ -4961,10 +4961,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 65.0,
-                "cotton, 200 gm2": 35.0
+                "cotton": 35.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 200.0
         }
     },
     {
@@ -4999,10 +4999,10 @@
             "component_name": "material",
             "composition": {
                 "polyester,": 65.0,
-                "cotton, 220 gm2": 35.0
+                "cotton": 35.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 220.0
         }
     },
     {
@@ -5097,10 +5097,10 @@
             "composition": {
                 "modacrylic,": 60.0,
                 "cotton,": 38.0,
-                "belltron, 255 gm2": 2.0
+                "belltron": 2.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 255.0
         }
     },
     {
@@ -5263,10 +5263,10 @@
             "component_name": "main",
             "composition": {
                 "polyester (37.5": 100.0,
-                ") 185 gm2": 45.0
+                ")": 45.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 185.0
         }
     },
     {
@@ -5300,10 +5300,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 65.0,
-                "cotton, 220 gm2": 35.0
+                "cotton": 35.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 220.0
         }
     },
     {
@@ -5491,10 +5491,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 85.0,
-                "cotton, 350 gm2": 15.0
+                "cotton": 15.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 350.0
         }
     },
     {
@@ -5510,10 +5510,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 85.0,
-                "cotton, 350 gm2": 15.0
+                "cotton": 15.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 350.0
         }
     },
     {
@@ -5529,10 +5529,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 85.0,
-                "cotton, 350 gm2": 15.0
+                "cotton": 15.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 350.0
         }
     },
     {
@@ -5548,10 +5548,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 85.0,
-                "cotton, 350 gm2": 15.0
+                "cotton": 15.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 350.0
         }
     },
     {
@@ -5567,10 +5567,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 85.0,
-                "cotton, 350 gm2": 15.0
+                "cotton": 15.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 350.0
         }
     },
     {
@@ -5586,10 +5586,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 85.0,
-                "cotton, 350 gm2": 15.0
+                "cotton": 15.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 350.0
         }
     },
     {
@@ -5754,10 +5754,10 @@
             "component_name": "cuffs",
             "composition": {
                 "cotton,": 94.0,
-                "elastane, 400gm\u00b2": 6.0
+                "elastane": 6.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 400.0
         }
     },
     {
@@ -5895,10 +5895,10 @@
             "composition": {
                 "modacrylic,": 60.0,
                 "cotton,": 38.0,
-                "belltron, 370 gm2": 2.0
+                "belltron": 2.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 370.0
         }
     },
     {
@@ -5915,10 +5915,10 @@
             "composition": {
                 "cotton,": 60.0,
                 "modacrylic fr,": 37.0,
-                "belltron, 370 gm2": 3.0
+                "belltron": 3.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 370.0
         }
     },
     {
@@ -5973,10 +5973,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 64.0,
-                "polyester, 280 gm2": 36.0
+                "polyester": 36.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 280.0
         }
     },
     {
@@ -5992,10 +5992,10 @@
             "component_name": "rib",
             "composition": {
                 "cotton,": 97.0,
-                "elastane, 380 gm2": 3.0
+                "elastane": 3.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 380.0
         }
     },
     {
@@ -6011,10 +6011,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 82.0,
-                "polyester, 280 gm2": 18.0
+                "polyester": 18.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 280.0
         }
     },
     {
@@ -6030,10 +6030,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 64.0,
-                "polyester, 280 gm2": 36.0
+                "polyester": 36.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 280.0
         }
     },
     {
@@ -6049,10 +6049,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 82.0,
-                "polyester, 280 gm2": 18.0
+                "polyester": 18.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 280.0
         }
     },
     {
@@ -6068,10 +6068,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 82.0,
-                "polyester, 280 gm2": 18.0
+                "polyester": 18.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 280.0
         }
     },
     {
@@ -6087,10 +6087,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 64.0,
-                "polyester, 280 gm2": 36.0
+                "polyester": 36.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 280.0
         }
     },
     {
@@ -6106,10 +6106,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 82.0,
-                "polyester, 280 gm2": 18.0
+                "polyester": 18.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 280.0
         }
     },
     {
@@ -6125,10 +6125,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 82.0,
-                "polyester, 280 gm2": 18.0
+                "polyester": 18.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 280.0
         }
     },
     {
@@ -6144,10 +6144,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 64.0,
-                "polyester, 280 gm2": 36.0
+                "polyester": 36.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 280.0
         }
     },
     {
@@ -6163,10 +6163,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 82.0,
-                "polyester, 280 gm2": 18.0
+                "polyester": 18.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 280.0
         }
     },
     {
@@ -6448,10 +6448,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 64.0,
-                "polyester, 280 gm2": 36.0
+                "polyester": 36.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 280.0
         }
     },
     {
@@ -6467,10 +6467,10 @@
             "component_name": "rib",
             "composition": {
                 "cotton,": 97.0,
-                "elastane, 380 gm2": 3.0
+                "elastane": 3.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 380.0
         }
     },
     {
@@ -6505,10 +6505,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 64.0,
-                "polyester, 280 gm2": 36.0
+                "polyester": 36.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 280.0
         }
     },
     {
@@ -6524,10 +6524,10 @@
             "component_name": "rib",
             "composition": {
                 "cotton,": 97.0,
-                "elastane, 380 gm2": 3.0
+                "elastane": 3.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 380.0
         }
     },
     {
@@ -6562,10 +6562,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 64.0,
-                "polyester, 280 gm2": 36.0
+                "polyester": 36.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 280.0
         }
     },
     {
@@ -6581,10 +6581,10 @@
             "component_name": "rib",
             "composition": {
                 "cotton,": 97.0,
-                "elastane, 380 gm2": 3.0
+                "elastane": 3.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 380.0
         }
     },
     {
@@ -6600,10 +6600,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 60.0,
-                "polyester, 400 gm2": 40.0
+                "polyester": 40.0
             },
             "additional_details": "0400",
-            "weight": NaN
+            "weight": 400.0
         }
     },
     {
@@ -6619,10 +6619,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 55.0,
-                "polyester, 400 gm2": 45.0
+                "polyester": 45.0
             },
             "additional_details": "2800",
-            "weight": NaN
+            "weight": 400.0
         }
     },
     {
@@ -6693,10 +6693,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "polyamide 190 gm2": 100.0
+                "polyamide": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 190.0
         }
     },
     {
@@ -6712,10 +6712,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 91.0,
-                "elastane 190 gm2": 9.0
+                "elastane": 9.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 190.0
         }
     },
     {
@@ -7103,10 +7103,10 @@
             "component_name": "contrast",
             "composition": {
                 "cotton,": 53.0,
-                "polyester 290gm\u00b2": 47.0
+                "polyester": 47.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 290.0
         }
     },
     {
@@ -7325,10 +7325,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 49.0,
-                "polyester, 360 gm2": 51.0
+                "polyester": 51.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 360.0
         }
     },
     {
@@ -7643,10 +7643,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "durable, comfortable polyester, 130 gm2": 100.0
+                "durable, comfortable polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 130.0
         }
     },
     {
@@ -7700,10 +7700,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 65.0,
-                "cotton, 260gm2": 35.0
+                "cotton": 35.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 260.0
         }
     },
     {
@@ -7776,10 +7776,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 88.0,
-                "elastane, 218 gm2": 12.0
+                "elastane": 12.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 218.0
         }
     },
     {
@@ -8073,10 +8073,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 47.0,
-                "polyester, 237 gm2": 53.0
+                "polyester": 53.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 237.0
         }
     },
     {
@@ -8092,10 +8092,10 @@
             "component_name": "contrast",
             "composition": {
                 "polyamide,": 91.5,
-                "elastane, 250 gm2": 8.5
+                "elastane": 8.5
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 250.0
         }
     },
     {
@@ -8110,10 +8110,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "polyester, 250 gm2": 100.0
+                "polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 250.0
         }
     },
     {
@@ -8249,10 +8249,10 @@
                 "modacrylic,": 28.0,
                 "aramid kermel,": 20.0,
                 "cv fr,": 20.0,
-                "antistatic, 320 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 320.0
         }
     },
     {
@@ -8271,10 +8271,10 @@
                 "cordura,": 28.0,
                 "cotton,": 17.0,
                 "aramid,": 15.0,
-                "antistatic, 270 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -8335,10 +8335,10 @@
                 "modacrylic,": 28.0,
                 "aramid kermel,": 20.0,
                 "cv fr,": 20.0,
-                "antistatic, 320 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 320.0
         }
     },
     {
@@ -8357,10 +8357,10 @@
                 "cordura,": 28.0,
                 "cotton,": 17.0,
                 "aramid,": 15.0,
-                "antistatic, 270 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -8379,10 +8379,10 @@
                 "modacrylic,": 28.0,
                 "aramid kermel,": 20.0,
                 "cv fr,": 20.0,
-                "antistatic, 320 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 320.0
         }
     },
     {
@@ -8401,10 +8401,10 @@
                 "cordura,": 28.0,
                 "cotton,": 17.0,
                 "aramid,": 15.0,
-                "antistatic, 545 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 545.0
         }
     },
     {
@@ -8439,10 +8439,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 65.0,
-                "cotton, 260gm2": 35.0
+                "cotton": 35.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 260.0
         }
     },
     {
@@ -8458,10 +8458,10 @@
             "component_name": "main",
             "composition": {
                 "polyamide": 84.0,
-                "elastane, 193 gm2": 16.0
+                "elastane": 16.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 193.0
         }
     },
     {
@@ -8477,10 +8477,10 @@
             "component_name": "contrast",
             "composition": {
                 "polyamide,": 88.0,
-                "elastane, 275 gm2": 12.0
+                "elastane": 12.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 275.0
         }
     },
     {
@@ -8495,10 +8495,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "polyamide cordura, 205 gm2": 100.0
+                "polyamide cordura": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 205.0
         }
     },
     {
@@ -8515,10 +8515,10 @@
             "composition": {
                 "polyester,": 45.0,
                 "37.5 polyester,": 30.0,
-                "cotton, 202 gm2": 25.0
+                "cotton": 25.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 202.0
         }
     },
     {
@@ -8535,10 +8535,10 @@
             "composition": {
                 "polyester,": 45.0,
                 "37.5 polyester,": 30.0,
-                "cotton, 202 gm2": 25.0
+                "cotton": 25.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 202.0
         }
     },
     {
@@ -9465,10 +9465,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 47.0,
-                "polyester, 237 gm2": 53.0
+                "polyester": 53.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 237.0
         }
     },
     {
@@ -9484,10 +9484,10 @@
             "component_name": "contrast",
             "composition": {
                 "polyamide,": 92.0,
-                "elastane, 250 gm2": 8.0
+                "elastane": 8.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 250.0
         }
     },
     {
@@ -9502,10 +9502,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "polyamide cordura, 205 gm2": 100.0
+                "polyamide cordura": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 205.0
         }
     },
     {
@@ -9974,10 +9974,10 @@
             "component_name": "main",
             "composition": {
                 "polyamide,": 84.0,
-                "elastane,193 gm2": 16.0
+                "elastane": 16.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 193.0
         }
     },
     {
@@ -9993,10 +9993,10 @@
             "component_name": "contrast",
             "composition": {
                 "polyamide,": 88.0,
-                "elastane, 275 gm2": 12.0
+                "elastane": 12.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 275.0
         }
     },
     {
@@ -10011,10 +10011,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "polyamide cordura, 205 gm2": 100.0
+                "polyamide cordura": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 205.0
         }
     },
     {
@@ -10031,10 +10031,10 @@
             "composition": {
                 "polyester,": 45.0,
                 "37.5 polyester,": 30.0,
-                "cotton, 202 gm2": 25.0
+                "cotton": 25.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 202.0
         }
     },
     {
@@ -10049,10 +10049,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "polyamide cordura, 250 gm2": 100.0
+                "polyamide cordura": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 250.0
         }
     },
     {
@@ -10233,10 +10233,10 @@
             "component_name": "main",
             "composition": {
                 "polyamide,": 69.0,
-                "cotton, 250 gm2": 31.0
+                "cotton": 31.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 250.0
         }
     },
     {
@@ -10252,10 +10252,10 @@
             "component_name": "contrast",
             "composition": {
                 "polyester,": 85.0,
-                "cotton, 270 gm2": 15.0
+                "cotton": 15.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -10289,10 +10289,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 85.0,
-                "cotton, 270 gm2": 15.0
+                "cotton": 15.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -10930,10 +10930,10 @@
                 "cotton,": 42.0,
                 "aramid,": 5.0,
                 "polyamide,": 3.0,
-                "antistatic, 300gm\u00b2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 300.0
         }
     },
     {
@@ -10974,10 +10974,10 @@
                 "cotton,": 42.0,
                 "aramid,": 5.0,
                 "polyamide,": 3.0,
-                "antistatic, 300gm\u00b2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 300.0
         }
     },
     {
@@ -11102,10 +11102,10 @@
                 "cotton,": 42.0,
                 "aramid,": 5.0,
                 "polyamide,": 3.0,
-                "antistatic, 300gm\u00b2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 300.0
         }
     },
     {
@@ -11142,10 +11142,10 @@
                 "modacrylic,": 28.0,
                 "aramid kermel,": 20.0,
                 "cv fr,": 20.0,
-                "antistatic, 320 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 320.0
         }
     },
     {
@@ -11164,10 +11164,10 @@
                 "cordura,": 28.0,
                 "cotton,": 17.0,
                 "aramid,": 15.0,
-                "antistatic, 270 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -11478,10 +11478,10 @@
             "composition": {
                 "polyester,": 45.0,
                 "37.5 polyester,": 30.0,
-                "cotton, 202 gm2": 25.0
+                "cotton": 25.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 202.0
         }
     },
     {
@@ -11496,10 +11496,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "polyamide cordura, 250 gm2": 100.0
+                "polyamide cordura": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 250.0
         }
     },
     {
@@ -12135,10 +12135,10 @@
                 "cotton,": 42.0,
                 "aramid,": 5.0,
                 "polyamide,": 3.0,
-                "antistatic, 300gm\u00b2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 300.0
         }
     },
     {
@@ -12179,10 +12179,10 @@
                 "cotton,": 42.0,
                 "aramid,": 5.0,
                 "polyamide,": 3.0,
-                "antistatic, 300gm\u00b2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 300.0
         }
     },
     {
@@ -12307,10 +12307,10 @@
                 "cotton,": 42.0,
                 "aramid,": 5.0,
                 "polyamide,": 3.0,
-                "antistatic, 300gm\u00b2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 300.0
         }
     },
     {
@@ -12347,10 +12347,10 @@
                 "modacrylic,": 28.0,
                 "aramid kermel,": 20.0,
                 "cv fr,": 20.0,
-                "antistatic, 320 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 320.0
         }
     },
     {
@@ -12369,10 +12369,10 @@
                 "cordura,": 28.0,
                 "cotton,": 17.0,
                 "aramid,": 15.0,
-                "antistatic, 270 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -12391,10 +12391,10 @@
                 "cotton,": 42.0,
                 "aramid,": 5.0,
                 "polyamide,": 3.0,
-                "antistatic, 300gm\u00b2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 300.0
         }
     },
     {
@@ -12414,10 +12414,10 @@
                 "viscose,": 19.0,
                 "aramid,": 14.0,
                 "elastane,": 5.0,
-                "antistatic, 240 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 240.0
         }
     },
     {
@@ -12436,10 +12436,10 @@
                 "cordura,": 28.0,
                 "cotton,": 17.0,
                 "aramid,": 15.0,
-                "antistatic, 270 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -12668,10 +12668,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 65.0,
-                "cotton, 260gm2": 35.0
+                "cotton": 35.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 260.0
         }
     },
     {
@@ -12687,10 +12687,10 @@
             "component_name": "main",
             "composition": {
                 "polyamide,": 94.0,
-                "elastane, 250 gm2": 6.0
+                "elastane": 6.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 250.0
         }
     },
     {
@@ -12706,10 +12706,10 @@
             "component_name": "contrast",
             "composition": {
                 "polyamide,": 91.5,
-                "elastane, 250 gm2": 8.5
+                "elastane": 8.5
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 250.0
         }
     },
     {
@@ -12724,10 +12724,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "polyamide cordura, 320 gm2": 100.0
+                "polyamide cordura": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 320.0
         }
     },
     {
@@ -12743,10 +12743,10 @@
             "component_name": "detail",
             "composition": {
                 "polyamide cordura,": 88.0,
-                "elastane, 205 gm2": 12.0
+                "elastane": 12.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 205.0
         }
     },
     {
@@ -12816,10 +12816,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 47.0,
-                "polyester, 251 gm2": 53.0
+                "polyester": 53.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 251.0
         }
     },
     {
@@ -12835,10 +12835,10 @@
             "component_name": "contrast",
             "composition": {
                 "polyamide,": 91.5,
-                "elastane, 250 gm2": 8.5
+                "elastane": 8.5
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 250.0
         }
     },
     {
@@ -12853,10 +12853,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyester cordura, 320 gm2": 100.0
+                "polyester cordura": 100.0
             },
             "additional_details": "reinforcement 1",
-            "weight": NaN
+            "weight": 320.0
         }
     },
     {
@@ -12871,10 +12871,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyamide cordura, 205 gm2": 100.0
+                "polyamide cordura": 100.0
             },
             "additional_details": "reinforcement 2",
-            "weight": NaN
+            "weight": 205.0
         }
     },
     {
@@ -12893,10 +12893,10 @@
                 "modacrylic,": 28.0,
                 "aramid kermel,": 20.0,
                 "cv fr,": 20.0,
-                "antistatic, 320 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 320.0
         }
     },
     {
@@ -12911,10 +12911,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "aramid, 545 gm2": 100.0
+                "aramid": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 545.0
         }
     },
     {
@@ -12933,10 +12933,10 @@
                 "modacrylic,": 28.0,
                 "aramid kermel,": 20.0,
                 "cv fr,": 20.0,
-                "antistatic, 320 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 320.0
         }
     },
     {
@@ -12951,10 +12951,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "aramid, 545 gm2": 100.0
+                "aramid": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 545.0
         }
     },
     {
@@ -12971,10 +12971,10 @@
             "composition": {
                 "protal,": 55.0,
                 "cotton,": 44.0,
-                "antistatic, pu laminated, 265 gm2": 1.0
+                "antistatic, pu laminated": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 265.0
         }
     },
     {
@@ -12990,10 +12990,10 @@
             "component_name": "lining",
             "composition": {
                 "meta-aramid,": 50.0,
-                "viscose fr, 120 gm2": 50.0
+                "viscose fr": 50.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 120.0
         }
     },
     {
@@ -13012,10 +13012,10 @@
                 "cordura,": 28.0,
                 "cotton,": 17.0,
                 "aramid,": 15.0,
-                "antistatic, 270 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -13201,10 +13201,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 47.0,
-                "polyester, 250gm\u00b2": 53.0
+                "polyester": 53.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 250.0
         }
     },
     {
@@ -13220,10 +13220,10 @@
             "component_name": "contrast stretch back thigh panels",
             "composition": {
                 "polyamide,": 91.5,
-                "elastane, 250gm\u00b2": 8.5
+                "elastane": 8.5
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 250.0
         }
     },
     {
@@ -13238,10 +13238,10 @@
         "component": {
             "component_name": "knee pad",
             "composition": {
-                "polyester cordura, 320gm\u00b2": 100.0
+                "polyester cordura": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 320.0
         }
     },
     {
@@ -13294,10 +13294,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 47.0,
-                "polyester, 237gm\u00b2": 53.0
+                "polyester": 53.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 237.0
         }
     },
     {
@@ -13313,10 +13313,10 @@
             "component_name": "contrast stretch back thigh panels",
             "composition": {
                 "polyamide,": 91.5,
-                "elastane, 250gm\u00b2": 8.5
+                "elastane": 8.5
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 250.0
         }
     },
     {
@@ -13331,10 +13331,10 @@
         "component": {
             "component_name": "knee pad",
             "composition": {
-                "polyester cordura, 320gm\u00b2": 100.0
+                "polyester cordura": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 320.0
         }
     },
     {
@@ -13534,10 +13534,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyester, 230 gm2": 100.0
+                "polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 230.0
         }
     },
     {
@@ -13552,10 +13552,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "polyamide cordura, 216 gm2": 100.0
+                "polyamide cordura": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 216.0
         }
     },
     {
@@ -13590,10 +13590,10 @@
             "composition": {
                 "37.5 polyester,": 50.0,
                 "repreve polyester,": 35.0,
-                "polyester, 60 gm2": 15.0
+                "polyester": 15.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 60.0
         }
     },
     {
@@ -13780,10 +13780,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 65.0,
-                "cotton, 260gm2": 35.0
+                "cotton": 35.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 260.0
         }
     },
     {
@@ -13893,10 +13893,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 85.0,
-                "cotton, 270 gm2": 15.0
+                "cotton": 15.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -13912,10 +13912,10 @@
             "component_name": "contrast",
             "composition": {
                 "polyester,": 94.0,
-                "elastane, 330 gm2": 6.0
+                "elastane": 6.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 330.0
         }
     },
     {
@@ -14064,10 +14064,10 @@
                 "cotton,": 42.0,
                 "aramid,": 5.0,
                 "polyamide,": 3.0,
-                "antistatic, 300gm\u00b2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 300.0
         }
     },
     {
@@ -14087,10 +14087,10 @@
                 "viscose,": 19.0,
                 "aramid,": 14.0,
                 "elastane,": 5.0,
-                "antistatic, 240 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 240.0
         }
     },
     {
@@ -14109,10 +14109,10 @@
                 "cordura,": 28.0,
                 "cotton,": 17.0,
                 "aramid,": 15.0,
-                "antistatic, 270 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -14224,10 +14224,10 @@
                 "cotton,": 42.0,
                 "aramid,": 5.0,
                 "polyamide,": 3.0,
-                "antistatic, 300gm\u00b2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 300.0
         }
     },
     {
@@ -14269,10 +14269,10 @@
                 "cordura,": 28.0,
                 "cotton,": 17.0,
                 "aramid,": 15.0,
-                "antistatic, 270 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -14288,10 +14288,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 65.0,
-                "cotton, 260gm2": 35.0
+                "cotton": 35.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 260.0
         }
     },
     {
@@ -14307,10 +14307,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 65.0,
-                "cotton, 260gm2": 35.0
+                "cotton": 35.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 260.0
         }
     },
     {
@@ -14401,10 +14401,10 @@
             "component_name": "main",
             "composition": {
                 "recycled polyester,": 92.0,
-                "elastane, 260 gm2": 8.0
+                "elastane": 8.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 260.0
         }
     },
     {
@@ -14420,10 +14420,10 @@
             "component_name": "reinforcement",
             "composition": {
                 "polyamide,": 88.0,
-                "elastane, 275 gm2": 12.0
+                "elastane": 12.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 275.0
         }
     },
     {
@@ -14438,10 +14438,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyamide 2-layer shell fabric,145gm2": 100.0
+                "polyamide 2-layer shell fabric": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 145.0
         }
     },
     {
@@ -14456,10 +14456,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "polyamide 3-layer cordura ,315gm2": 100.0
+                "polyamide 3-layer cordura": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 315.0
         }
     },
     {
@@ -14474,10 +14474,10 @@
         "component": {
             "component_name": "lining",
             "composition": {
-                "polyester, 67gm2": 100.0
+                "polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 67.0
         }
     },
     {
@@ -14493,10 +14493,10 @@
             "component_name": "main",
             "composition": {
                 "polyamide cordura ,": 88.0,
-                "elastane, 270 gm2": 12.0
+                "elastane": 12.0
             },
             "additional_details": "stretch cordura",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -14512,10 +14512,10 @@
             "component_name": "ripstop",
             "composition": {
                 "polyester,": 65.0,
-                "cotton, 200 gm2": 35.0
+                "cotton": 35.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 200.0
         }
     },
     {
@@ -14530,10 +14530,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "polyamide cordura, 205 gm2": 100.0
+                "polyamide cordura": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 205.0
         }
     },
     {
@@ -14549,10 +14549,10 @@
             "component_name": "main",
             "composition": {
                 "polyamide cordura ,": 88.0,
-                "elastane, 270 gm2": 12.0
+                "elastane": 12.0
             },
             "additional_details": "stretch cordura",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -14568,10 +14568,10 @@
             "component_name": "ripstop",
             "composition": {
                 "polyester,": 65.0,
-                "cotton, 200 gm2": 35.0
+                "cotton": 35.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 200.0
         }
     },
     {
@@ -14586,10 +14586,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "polyamide cordura, 205 gm2": 100.0
+                "polyamide cordura": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 205.0
         }
     },
     {
@@ -14605,10 +14605,10 @@
             "component_name": "main",
             "composition": {
                 "polyamide cordura ,": 88.0,
-                "elastane, 270 gm2": 12.0
+                "elastane": 12.0
             },
             "additional_details": "stretch cordura",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -14624,10 +14624,10 @@
             "component_name": "ripstop",
             "composition": {
                 "polyester,": 65.0,
-                "cotton, 200 gm2": 35.0
+                "cotton": 35.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 200.0
         }
     },
     {
@@ -14642,10 +14642,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "polyamide cordura, 205 gm2": 100.0
+                "polyamide cordura": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 205.0
         }
     },
     {
@@ -14661,10 +14661,10 @@
             "component_name": "main",
             "composition": {
                 "polyamide cordura ,": 88.0,
-                "elastane, 270 gm2": 12.0
+                "elastane": 12.0
             },
             "additional_details": "stretch cordura",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -14680,10 +14680,10 @@
             "component_name": "ripstop",
             "composition": {
                 "polyester,": 65.0,
-                "cotton, 200 gm2": 35.0
+                "cotton": 35.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 200.0
         }
     },
     {
@@ -14698,10 +14698,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "polyamide cordura, 205 gm2": 100.0
+                "polyamide cordura": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 205.0
         }
     },
     {
@@ -14717,10 +14717,10 @@
             "component_name": "main",
             "composition": {
                 "polyamide cordura ,": 88.0,
-                "elastane, 270 gm2": 12.0
+                "elastane": 12.0
             },
             "additional_details": "stretch cordura",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -14736,10 +14736,10 @@
             "component_name": "ripstop",
             "composition": {
                 "polyester,": 65.0,
-                "cotton, 200 gm2": 35.0
+                "cotton": 35.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 200.0
         }
     },
     {
@@ -14754,10 +14754,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "polyamide cordura, 205 gm2": 100.0
+                "polyamide cordura": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 205.0
         }
     },
     {
@@ -14773,10 +14773,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 65.0,
-                "cotton, 225 gm2": 35.0
+                "cotton": 35.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 225.0
         }
     },
     {
@@ -14830,10 +14830,10 @@
             "component_name": "main",
             "composition": {
                 "polyester,": 65.0,
-                "cotton, 200 gm2": 35.0
+                "cotton": 35.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 200.0
         }
     },
     {
@@ -14849,10 +14849,10 @@
             "component_name": "main",
             "composition": {
                 "polyamide cordura;": 88.0,
-                "elastan, 275 gm2": 12.0
+                "elastan": 12.0
             },
             "additional_details": "contrast 1",
-            "weight": NaN
+            "weight": 275.0
         }
     },
     {
@@ -14903,10 +14903,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyester; 200 gm2": 100.0
+                "polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 200.0
         }
     },
     {
@@ -14922,10 +14922,10 @@
             "component_name": "contrast",
             "composition": {
                 "polyamide cordura,": 88.0,
-                "elastane, 275 gm2": 12.0
+                "elastane": 12.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 275.0
         }
     },
     {
@@ -15182,10 +15182,10 @@
             "component_name": "main",
             "composition": {
                 "polyester (": 100.0,
-                "sorona polyester) 225, gm2": 36.0
+                "sorona polyester)": 36.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 225.0
         }
     },
     {
@@ -15219,10 +15219,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyamide cordura, 275 gm2": 100.0
+                "polyamide cordura": 100.0
             },
             "additional_details": "reinforcement 1",
-            "weight": NaN
+            "weight": 275.0
         }
     },
     {
@@ -15237,10 +15237,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyamide, 290 gm2": 100.0
+                "polyamide": 100.0
             },
             "additional_details": "reinforcement 2",
-            "weight": NaN
+            "weight": 290.0
         }
     },
     {
@@ -15669,10 +15669,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyester, 300 gm2": 100.0
+                "polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 300.0
         }
     },
     {
@@ -15687,10 +15687,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "polyamide cordura, 205 gm2": 100.0
+                "polyamide cordura": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 205.0
         }
     },
     {
@@ -15706,10 +15706,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 82.0,
-                "polyester, 280 gm2": 18.0
+                "polyester": 18.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 280.0
         }
     },
     {
@@ -15725,10 +15725,10 @@
             "component_name": "rib",
             "composition": {
                 "cotton,": 97.0,
-                "elastane, 380 gm2": 3.0
+                "elastane": 3.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 380.0
         }
     },
     {
@@ -15743,10 +15743,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "cotton, 200 gm2": 100.0
+                "cotton": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 200.0
         }
     },
     {
@@ -15762,10 +15762,10 @@
             "component_name": "main",
             "composition": {
                 "cotton,": 95.0,
-                "viscose 200 gm2": 5.0
+                "viscose": 5.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 200.0
         }
     },
     {
@@ -15781,10 +15781,10 @@
             "component_name": "polartec power stretch",
             "composition": {
                 "recycled polyester,": 84.0,
-                "elastane, 224 gm2": 16.0
+                "elastane": 16.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 224.0
         }
     },
     {
@@ -15800,10 +15800,10 @@
             "component_name": "polartec power stretch",
             "composition": {
                 "recycled polyester,": 84.0,
-                "elastane, 224 gm2": 16.0
+                "elastane": 16.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 224.0
         }
     },
     {
@@ -15889,10 +15889,10 @@
             "component_name": "polartec thermal pro",
             "composition": {
                 "recycled polyester,": 77.0,
-                "polyester, 295 gm2": 23.0
+                "polyester": 23.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 295.0
         }
     },
     {
@@ -15907,10 +15907,10 @@
         "component": {
             "component_name": "contrast",
             "composition": {
-                "polyamide 67 gm2": 100.0
+                "polyamide": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 67.0
         }
     },
     {
@@ -15926,10 +15926,10 @@
             "component_name": "cuff",
             "composition": {
                 "recycled polyester,": 98.0,
-                "elastane, 550gm2": 2.0
+                "elastane": 2.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 550.0
         }
     },
     {
@@ -16018,10 +16018,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyester, 380 gm2": 100.0
+                "polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 380.0
         }
     },
     {
@@ -16036,10 +16036,10 @@
         "component": {
             "component_name": "contrast fabric",
             "composition": {
-                "polyamid, 67 gm2": 100.0
+                "polyamid": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 67.0
         }
     },
     {
@@ -16074,10 +16074,10 @@
             "component_name": "main",
             "composition": {
                 "recycled polyester,": 84.0,
-                "elastane, 224 gm2": 16.0
+                "elastane": 16.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 224.0
         }
     },
     {
@@ -16147,10 +16147,10 @@
             "component_name": "main",
             "composition": {
                 "recycled polyester,": 84.0,
-                "elastane, 224 gm2": 16.0
+                "elastane": 16.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 224.0
         }
     },
     {
@@ -16254,10 +16254,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyester, 235 gm2": 100.0
+                "polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 235.0
         }
     },
     {
@@ -16272,10 +16272,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyester, 235 gm2": 100.0
+                "polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 235.0
         }
     },
     {
@@ -16362,10 +16362,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyester, 210gm2": 100.0
+                "polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 210.0
         }
     },
     {
@@ -16550,10 +16550,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyester, 210 gm2": 100.0
+                "polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 210.0
         }
     },
     {
@@ -16569,10 +16569,10 @@
             "component_name": "main fabric",
             "composition": {
                 "repreve polyester,": 48.0,
-                "recycled polyester, 255 gm2": 52.0
+                "recycled polyester": 52.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 255.0
         }
     },
     {
@@ -16625,10 +16625,10 @@
             "component_name": "main fabric",
             "composition": {
                 "repreve polyester,": 48.0,
-                "recycled polyester, 255 gm2": 52.0
+                "recycled polyester": 52.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 255.0
         }
     },
     {
@@ -16644,10 +16644,10 @@
             "component_name": "polartec",
             "composition": {
                 "recycled polyester,": 61.0,
-                "polyester, 207 gm2": 39.0
+                "polyester": 39.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 207.0
         }
     },
     {
@@ -16662,10 +16662,10 @@
         "component": {
             "component_name": "mesh",
             "composition": {
-                "polyester, 69 gm2": 100.0
+                "polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 69.0
         }
     },
     {
@@ -16680,10 +16680,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyester, 235 gm2": 100.0
+                "polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 235.0
         }
     },
     {
@@ -16699,10 +16699,10 @@
             "component_name": "polartec",
             "composition": {
                 "recycled polyester,": 61.0,
-                "polyester, 207 gm2": 39.0
+                "polyester": 39.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 207.0
         }
     },
     {
@@ -16717,10 +16717,10 @@
         "component": {
             "component_name": "mesh",
             "composition": {
-                "polyester, 69 gm2": 100.0
+                "polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 69.0
         }
     },
     {
@@ -17454,7 +17454,23 @@
         "component": {
             "component_name": "main",
             "composition": {},
-            "additional_details": "5000 gm2 breathability",
+            "additional_details": "",
+            "weight": 5000.0
+        }
+    },
+    {
+        "product_id": "#8400",
+        "category": {
+            "product_main_category": "sweater",
+            "product_sub_category": "hoodie"
+        },
+        "color": {
+            "color": null
+        },
+        "component": {
+            "component_name": "main",
+            "composition": {},
+            "additional_details": "breathability",
             "weight": NaN
         }
     },
@@ -17709,10 +17725,10 @@
             "component_name": "main fabric",
             "composition": {
                 "cotton,": 75.0,
-                "nylon, 280 gm2": 25.0
+                "nylon": 25.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 280.0
         }
     },
     {
@@ -17727,10 +17743,10 @@
         "component": {
             "component_name": "pile",
             "composition": {
-                "polyester, 190 gm2": 100.0
+                "polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 190.0
         }
     },
     {
@@ -17745,10 +17761,10 @@
         "component": {
             "component_name": "padding",
             "composition": {
-                "polyester, 60 gm2": 100.0
+                "polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 60.0
         }
     },
     {
@@ -17939,10 +17955,10 @@
         "component": {
             "component_name": "padding",
             "composition": {
-                "polyester, 200 gm2": 100.0
+                "polyester": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 200.0
         }
     },
     {
@@ -18011,10 +18027,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "merino wool, 160 gm2": 100.0
+                "merino wool": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 160.0
         }
     },
     {
@@ -18103,10 +18119,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "merino wool, 160 gm2": 100.0
+                "merino wool": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 160.0
         }
     },
     {
@@ -18140,10 +18156,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "merino wool, 160 gm2": 100.0
+                "merino wool": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 160.0
         }
     },
     {
@@ -18322,10 +18338,10 @@
             "component_name": "main",
             "composition": {
                 "recycled polyester,": 84.0,
-                "elastane, 224 gm2": 16.0
+                "elastane": 16.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 224.0
         }
     },
     {
@@ -18359,10 +18375,10 @@
             "component_name": "main",
             "composition": {
                 "recycled polyester,": 84.0,
-                "elastane, 224 gm2": 16.0
+                "elastane": 16.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 224.0
         }
     },
     {
@@ -18476,10 +18492,10 @@
             "composition": {
                 "wool,": 68.0,
                 "modacrylic,": 30.0,
-                "belltron, 450 gm2": 2.0
+                "belltron": 2.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 450.0
         }
     },
     {
@@ -18600,10 +18616,10 @@
                 "modacrylic,": 57.0,
                 "cotton,": 36.0,
                 "elastan,": 5.0,
-                "belltron, 210 gm2": 2.0
+                "belltron": 2.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 210.0
         }
     },
     {
@@ -18642,10 +18658,10 @@
                 "modacrylic,": 57.0,
                 "cotton,": 36.0,
                 "elastan,": 5.0,
-                "belltron, 210gm\u00b2": 2.0
+                "belltron": 2.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 210.0
         }
     },
     {
@@ -18664,10 +18680,10 @@
                 "modacrylic,": 28.0,
                 "aramid kermel,": 20.0,
                 "cv fr,": 20.0,
-                "antistatic, 320 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 320.0
         }
     },
     {
@@ -18720,10 +18736,10 @@
             "composition": {
                 "wool,": 68.0,
                 "modacrylic fr,": 30.0,
-                "belltron, 450 gm2": 2.0
+                "belltron": 2.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 450.0
         }
     },
     {
@@ -18740,10 +18756,10 @@
             "composition": {
                 "wool,": 49.0,
                 "viscose,": 49.0,
-                "belltron, 210 gm2": 2.0
+                "belltron": 2.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 210.0
         }
     },
     {
@@ -19969,10 +19985,10 @@
             "component_name": "backing",
             "composition": {
                 "modacrylic,": 60.0,
-                "cotton, 310 gm2": 40.0
+                "cotton": 40.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 310.0
         }
     },
     {
@@ -20042,10 +20058,10 @@
             "composition": {
                 "polyamide,": 58.0,
                 "polyester 37.5,": 40.0,
-                "elastane, 200 gm2": 2.0
+                "elastane": 2.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 200.0
         }
     },
     {
@@ -20061,10 +20077,10 @@
             "component_name": "main",
             "composition": {
                 "polyamide,": 58.0,
-                "polyester 37.5, 165 gm2": 42.0
+                "polyester 37.5": 42.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 165.0
         }
     },
     {
@@ -20080,10 +20096,10 @@
             "component_name": "main",
             "composition": {
                 "polyamide,": 58.0,
-                "polyester 37.5, 165 gm2": 42.0
+                "polyester 37.5": 42.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 165.0
         }
     },
     {
@@ -20100,10 +20116,10 @@
             "composition": {
                 "polyamide,": 62.0,
                 "polypropylene,": 36.0,
-                "elastane, 214 gm2": 2.0
+                "elastane": 2.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 214.0
         }
     },
     {
@@ -20120,10 +20136,10 @@
             "composition": {
                 "polyamide,": 62.0,
                 "polypropylene,": 36.0,
-                "elastane, 214 gm2": 2.0
+                "elastane": 2.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 214.0
         }
     },
     {
@@ -20140,10 +20156,10 @@
             "composition": {
                 "polyamide,": 62.0,
                 "polypropylene,": 36.0,
-                "elastane, 214 gm2": 2.0
+                "elastane": 2.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 214.0
         }
     },
     {
@@ -20314,10 +20330,10 @@
             "component_name": "polartec power stretch",
             "composition": {
                 "recycled polyester,": 84.0,
-                "elastane, 224 gm2": 16.0
+                "elastane": 16.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 224.0
         }
     },
     {
@@ -20334,10 +20350,10 @@
             "composition": {
                 "polyester,": 58.0,
                 "cotton,": 21.0,
-                "modal, 235 gm2": 21.0
+                "modal": 21.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 235.0
         }
     },
     {
@@ -20458,10 +20474,10 @@
             "component_name": "main",
             "composition": {
                 "polyamid": 75.0,
-                "elastan, 265 gm2": 25.0
+                "elastan": 25.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 265.0
         }
     },
     {
@@ -20682,10 +20698,10 @@
             "composition": {
                 "viscose fr,": 49.0,
                 "wool,": 49.0,
-                "belltron, 210 gm2": 2.0
+                "belltron": 2.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 210.0
         }
     },
     {
@@ -20702,10 +20718,10 @@
             "composition": {
                 "merino wool,": 55.0,
                 "polyester,": 36.0,
-                "poyamide, 230 gm2": 9.0
+                "poyamide": 9.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 230.0
         }
     },
     {
@@ -20722,10 +20738,10 @@
             "composition": {
                 "merino wool,": 55.0,
                 "polyester,": 36.0,
-                "poyamide, 230 gm2": 9.0
+                "poyamide": 9.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 230.0
         }
     },
     {
@@ -20740,7 +20756,7 @@
         "component": {
             "component_name": "main",
             "composition": {},
-            "additional_details": "x% polyamide; x% wool; x% elastane xgm2",
+            "additional_details": "x% polyamide; x% wool; x% elastane xgsm",
             "weight": NaN
         }
     },
@@ -20756,7 +20772,7 @@
         "component": {
             "component_name": "main",
             "composition": {},
-            "additional_details": "x% polyamide; x% wool; x% elastane xgm2",
+            "additional_details": "x% polyamide; x% wool; x% elastane xgsm",
             "weight": NaN
         }
     },
@@ -20774,10 +20790,10 @@
             "composition": {
                 "solution dyed recycled polyester,": 53.0,
                 "polyester bamboo charcoal,": 43.0,
-                "elastane, 250 gm2": 4.0
+                "elastane": 4.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 250.0
         }
     },
     {
@@ -20794,10 +20810,10 @@
             "composition": {
                 "solution dyed recycled polyester,": 53.0,
                 "polyester bamboo charcoal,": 43.0,
-                "elastane, 250 gm2": 4.0
+                "elastane": 4.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 250.0
         }
     },
     {
@@ -20812,7 +20828,7 @@
         "component": {
             "component_name": "main",
             "composition": {},
-            "additional_details": "x% polyamide  x% polypropylene  x% elastane  x gm2",
+            "additional_details": "x% polyamide  x% polypropylene  x% elastane  x gsm",
             "weight": NaN
         }
     },
@@ -20828,7 +20844,7 @@
         "component": {
             "component_name": "main",
             "composition": {},
-            "additional_details": "x% polyamide  x% polypropylene  x% elastane  x gm2",
+            "additional_details": "x% polyamide  x% polypropylene  x% elastane  x gsm",
             "weight": NaN
         }
     },
@@ -21418,10 +21434,10 @@
                 "modacrylic,": 28.0,
                 "aramid kermel,": 20.0,
                 "cv fr,": 20.0,
-                "antistatic, 320 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 320.0
         }
     },
     {
@@ -21494,10 +21510,10 @@
                 "cotton,": 42.0,
                 "aramid,": 5.0,
                 "polyamide,": 3.0,
-                "antistatic, 300gm\u00b2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 300.0
         }
     },
     {
@@ -21573,10 +21589,10 @@
                 "cotton,": 42.0,
                 "aramid,": 5.0,
                 "polyamide,": 3.0,
-                "antistatic, 300 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 300.0
         }
     },
     {
@@ -21594,10 +21610,10 @@
                 "polyester": 54.0,
                 "aramide,": 24.0,
                 "polyamide,": 13.0,
-                "polyurethane, 450 gm2": 9.0
+                "polyurethane": 9.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 450.0
         }
     },
     {
@@ -21653,10 +21669,10 @@
                 "cotton,": 42.0,
                 "aramid,": 5.0,
                 "polyamide,": 3.0,
-                "antistatic, 300gm\u00b2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 300.0
         }
     },
     {
@@ -21729,10 +21745,10 @@
                 "cotton,": 42.0,
                 "aramid,": 5.0,
                 "polyamide,": 3.0,
-                "antistatic, 300 gm2": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 300.0
         }
     },
     {

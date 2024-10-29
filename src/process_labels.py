@@ -19,6 +19,7 @@ ALL_GSM = [
     "g/m2",
     "g/m²",
     "gm²",
+    "gm2",
     " gram.",
     " gram ",
     "gr ",
@@ -100,7 +101,7 @@ def replace_words(
     - pd.Series: The modified Series with specified replacements applied.
     """
     for word in list_to_replace:
-        pattern = r"\b" + re.escape(word) + r"\b"
+        pattern = re.escape(word) + r"\b"
         description_series = description_series.replace(pattern, replacement_word, regex=True)
     description_series = strip_and_trim_punctuation(description_series)
     return description_series.str.strip()

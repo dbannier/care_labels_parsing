@@ -46,10 +46,10 @@ def test_remove_symbols():
 
 def test_replace_words():
     # make sure to match words stick to numbers
-    data = pd.Series(["This is a test sentence.", "Another test case.", "No match here."])
+    data = pd.Series(["This is a test sentence.", "Another 9test case.", "No match here."])
     list_to_replace = ["test", "case"]
     replacement_word = "example"
-    expected = pd.Series(["This is a example sentence", "Another example example", "No match here"])
+    expected = pd.Series(["This is a example sentence", "Another 9example example", "No match here"])
     result = replace_words(data, list_to_replace, replacement_word)
     pd.testing.assert_series_equal(result, expected)
 
