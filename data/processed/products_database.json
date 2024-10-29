@@ -492,10 +492,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "recycled polyamide, 175 gr": 100.0
+                "recycled polyamide": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 175.0
         }
     },
     {
@@ -510,10 +510,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "cordura polyamide, 190 gr": 100.0
+                "cordura polyamide": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 190.0
         }
     },
     {
@@ -710,10 +710,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "recycled polyamide, 175 gr": 100.0
+                "recycled polyamide": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 175.0
         }
     },
     {
@@ -728,10 +728,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "cordura polyamide, 190 gr": 100.0
+                "cordura polyamide": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 190.0
         }
     },
     {
@@ -799,10 +799,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "recycled polyamide, 175 gr": 100.0
+                "recycled polyamide": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 175.0
         }
     },
     {
@@ -817,10 +817,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "cordura polyamide, 190 gr": 100.0
+                "cordura polyamide": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 190.0
         }
     },
     {
@@ -1511,10 +1511,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "polyamide, 175 gr": 100.0
+                "polyamide": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 175.0
         }
     },
     {
@@ -1529,10 +1529,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "cordura polyamide, 190 gr": 100.0
+                "cordura polyamide": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 190.0
         }
     },
     {
@@ -1779,10 +1779,10 @@
         "component": {
             "component_name": "main",
             "composition": {
-                "recycled polyamide, 175 gr": 100.0
+                "recycled polyamide": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 175.0
         }
     },
     {
@@ -1797,10 +1797,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "cordura polyamide, 190 gr": 100.0
+                "cordura polyamide": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 190.0
         }
     },
     {
@@ -3093,10 +3093,10 @@
         "component": {
             "component_name": "material",
             "composition": {
-                "recycled polyamide, 175 gr": 100.0
+                "recycled polyamide": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 175.0
         }
     },
     {
@@ -3111,10 +3111,10 @@
         "component": {
             "component_name": "reinforcement",
             "composition": {
-                "cordura polyamide, 190 gr": 100.0
+                "cordura polyamide": 100.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 190.0
         }
     },
     {
@@ -10886,10 +10886,10 @@
             "composition": {
                 "protal,": 55.0,
                 "cotton,": 44.0,
-                "antistatic, 275 gram": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 275.0
         }
     },
     {
@@ -10908,10 +10908,10 @@
                 "cordura,": 28.0,
                 "cotton,": 17.0,
                 "aramid,": 15.0,
-                "antistatic, 270 gram": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -11357,10 +11357,10 @@
             "composition": {
                 "protal,": 55.0,
                 "cotton,": 44.0,
-                "antistatic, 275 gram": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 275.0
         }
     },
     {
@@ -11379,10 +11379,10 @@
                 "cordura,": 28.0,
                 "cotton,": 17.0,
                 "aramid,": 15.0,
-                "antistatic, 270 gram": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -11399,10 +11399,10 @@
             "composition": {
                 "protal,": 55.0,
                 "cotton,": 44.0,
-                "antistatic, 275 gram": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 275.0
         }
     },
     {
@@ -11421,10 +11421,10 @@
                 "cordura,": 28.0,
                 "cotton,": 17.0,
                 "aramid,": 15.0,
-                "antistatic, 270 gram": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -12091,10 +12091,10 @@
             "composition": {
                 "protal,": 55.0,
                 "cotton,": 44.0,
-                "antistatic, 275 gram": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 275.0
         }
     },
     {
@@ -12113,10 +12113,10 @@
                 "cordura,": 28.0,
                 "cotton,": 17.0,
                 "aramid,": 15.0,
-                "antistatic, 270 gram": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -12585,10 +12585,10 @@
             "composition": {
                 "protal,": 55.0,
                 "cotton,": 44.0,
-                "antistatic, 275 gram": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 275.0
         }
     },
     {
@@ -12607,10 +12607,10 @@
                 "cordura,": 28.0,
                 "cotton,": 17.0,
                 "aramid,": 15.0,
-                "antistatic, 270 gram": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
@@ -12649,10 +12649,10 @@
                 "cordura,": 28.0,
                 "cotton,": 17.0,
                 "aramid,": 15.0,
-                "antistatic, 270 gram": 1.0
+                "antistatic": 1.0
             },
             "additional_details": "",
-            "weight": NaN
+            "weight": 270.0
         }
     },
     {
