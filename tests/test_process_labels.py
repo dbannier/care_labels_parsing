@@ -2,28 +2,23 @@
 File containing unit test functions for process_labels.py
 """
 import json
+import nltk
 import pandas as pd
 import pytest
-import nltk
-
 
 from src.models import Category, Color, Component, ProductDetails
 from src.process_labels import (
     dataframe_to_pydantic,
     get_weight,
-    strip_and_trim_punctuation,
-    lower_dataframe,
     parse_composition,
     pydanticlist_to_json,
     remove_english_stopwords,
-    replace_and_comma,
-    remove_escape_characters,
-    remove_commas,
     remove_symbols,
     replace_words,
-    split_components,
     split_colors,
+    split_components,
     split_sentence,
+    strip_and_trim_punctuation,
 )
 
 
@@ -34,45 +29,11 @@ def test_strip_and_trim_punctuation():
     pd.testing.assert_series_equal(result, expected)
 
 
-def test_lower_dataframe():
-    data = pd.DataFrame({
-        "A": ["Hello", "WORLD", None],
-        "B": ["TEST", "string", "DataFrame"]
-    })
-    expected = pd.DataFrame({
-        "A": ["hello", "world", None],
-        "B": ["test", "string", "dataframe"]
-    })
-    result = lower_dataframe(data)
-    pd.testing.assert_frame_equal(result, expected)
-
-
 def test_remove_english_stopwords():
     nltk.download("stopwords")
     data = pd.Series(["this is a test string", "another example with stopwords"])
     expected = pd.Series(["test string", "another example stopwords"])
     result = remove_english_stopwords(data)
-    pd.testing.assert_series_equal(result, expected)
-
-
-def test_replace_and_comma():
-    data = pd.Series(["bread and butter", "salt and pepper", "fish and chips"])
-    expected = pd.Series(["bread, butter", "salt, pepper", "fish, chips"])
-    result = replace_and_comma(data)
-    pd.testing.assert_series_equal(result, expected)
-
-
-def test_remove_escape_characters():
-    data = pd.Series(["Line1\nLine2", "Hello\nWorld", "NoEscapeCharacters"])
-    expected = pd.Series(["Line1 Line2", "Hello World", "NoEscapeCharacters"])
-    result = remove_escape_characters(data)
-    pd.testing.assert_series_equal(result, expected)
-
-
-def test_remove_commas():
-    data = pd.Series(["Hello, world", "Comma, separated, values", "No commas here"])
-    expected = pd.Series(["Hello  world", "Comma  separated  values", "No commas here"])
-    result = remove_commas(data)
     pd.testing.assert_series_equal(result, expected)
 
 
@@ -326,7 +287,7 @@ def test_pydanticlist_to_json():
     pydanticlist_to_json(sample_data, "tests/test_output")
 
     # Load the JSON file and check its content
-    with open("test_output.json", "r") as json_file:
+    with open("tests/test_output.json", "r") as json_file:
         loaded_data = json.load(json_file)
 
     # Expected JSON data

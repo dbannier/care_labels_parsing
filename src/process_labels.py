@@ -26,16 +26,35 @@ ALL_GSM = [
     " g ",
 ]
 
+PUNCTUATION = ".,;:!?"
+
 
 def strip_and_trim_punctuation(description_series: pd.Series) -> pd.Series:
     """ Function to stip pandas series string input and trim ending punctuation."""
-    punctuation = ".,;:!?" #Punctuation to remove at the end of the rows
-    return description_series.str.strip().str.rstrip(punctuation).str.lstrip(punctuation)
+     #Punctuation to remove at the end of the rows
+    return description_series.str.strip().str.rstrip(PUNCTUATION).str.lstrip(PUNCTUATION)
 
+def preprocess_series(description_series: pd.Series)-> pd.Series:
+    """
+    Standard function to preprocess a pandas series containing text.
 
-def lower_dataframe(df: pd.DataFrame) -> pd.DataFrame:
-    """Function lowering text for all the input dataframe"""
-    return df.applymap(lambda x: x.lower() if pd.notnull(x) else x)
+    Parameters:
+    - a pandas series, containing string 
+    Returns:
+    the processed pandas series
+    """
+    # Replace "and" by comma
+    description_series = description_series.str.replace(" and ", ", ", regex=True)
+
+    # Remove stopwords
+    description_series = remove_english_stopwords(description_series)
+
+    # Remove escape characters
+    description_series = description_series.str.replace("\n", " ", regex=True)
+
+    # Remove symbols
+    description_series = remove_symbols(description_series)
+    return description_series
 
 
 def remove_english_stopwords(description_series:pd.Series)-> pd.Series:
@@ -53,19 +72,6 @@ def remove_english_stopwords(description_series:pd.Series)-> pd.Series:
         )
     )
 
-
-def replace_and_comma(description_series : pd.Series)-> pd.Series :
-    """Function replacing "and" words with commas from input text series"""
-    return description_series.str.replace(" and ", ", ", regex=True)
-
-
-def remove_escape_characters(descriptive_series:pd.Series)->pd.Series:
-    """Function removing escape characters ("\n") from input series"""
-    return descriptive_series.str.replace("\n", " ", regex=True)
-
-def remove_commas(descriptive_series:pd.Series)->pd.Series:
-    """Function removing escape characters ("\n") from input series"""
-    return descriptive_series.str.replace(",", " ", regex=True)
 
 def remove_symbols(description_series: pd.Series):
     """Function removing symbols from input text series"""
@@ -255,7 +261,10 @@ def parse_composition(composition_text:str)-> (str,dict):
     matches = re.findall(pattern, composition_text)
 
     # Convert matches to a dictionary: {material: percentage}
-    composition_dict = {material.strip(): float(percentage.replace(",",".")) if percentage else None for percentage, material in matches}
+    composition_dict = {
+    material.strip(): float(percentage.replace(",", ".")) if percentage else None
+    for percentage, material in matches
+    }
 
     # Remove matched text from description
     cleaned_text = re.sub(pattern, "", composition_text).strip()
@@ -326,22 +335,13 @@ if __name__ == "__main__":
     #### Preprocessing ####
     logging.info("Preprocessing file...")
     # Lower dataframe
-    clean_label_file = lower_dataframe(label_file)
+    clean_label_file = label_file.applymap(lambda x: x.lower() if pd.notnull(x) else x)
 
     # Split categories to get main category and subcategory field
     clean_label_file[["product_main_category","product_sub_category"]]= clean_label_file.product_category.str.split("/",expand= True)
 
-    # Replace "and" by commas
-    clean_label_file["updated_care_label"] = replace_and_comma(clean_label_file.care_label)
-
-    # Remove english stopwords
-    clean_label_file.updated_care_label = remove_english_stopwords(clean_label_file.updated_care_label)
-
-    # Remove escape characters
-    clean_label_file.updated_care_label = remove_escape_characters(clean_label_file.updated_care_label)
-
-    # Remove symbols
-    clean_label_file.updated_care_label = remove_symbols(clean_label_file.updated_care_label)
+    # Preprocess care label series
+    clean_label_file["updated_care_label"] = preprocess_series(clean_label_file.care_label)
 
     # Standardize unit of measure
     clean_label_file.updated_care_label = replace_words(clean_label_file.updated_care_label, ALL_GSM, "gsm")
@@ -379,9 +379,7 @@ if __name__ == "__main__":
     )
 
     # Clean remaining text
-    clean_label_file_weight["remaining_text"] = remove_commas(
-        clean_label_file_weight["remaining_text"]
-    )
+    clean_label_file_weight["remaining_text"] = clean_label_file_weight["remaining_text"].str.replace(",", " ", regex=True)
     clean_label_file_weight["remaining_text"] = strip_and_trim_punctuation(
         clean_label_file_weight["remaining_text"]
     )
